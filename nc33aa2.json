@@ -1,0 +1,5022 @@
+{
+  "awardCustomizations" : [
+    {
+      "awardType" : "Best Player Award",
+      "customName" : "Heisman Trophy",
+      "trophyImageURL" : "https:\/\/officialpsds.com\/imageview\/79\/jn\/79jn8q_large.png?1521316481"
+    },
+    {
+      "awardType" : "Best Offensive Player Award",
+      "customName" : "Maxwell Award"
+    },
+    {
+      "awardType" : "Best Defensive Player Award",
+      "customName" : "Lombardi Award"
+    },
+    {
+      "awardType" : "Best Quarterback Award",
+      "customName" : "Davey O’Brien Award"
+    },
+    {
+      "awardType" : "Best Running Back Award",
+      "customName" : "Doak Walker Award"
+    },
+    {
+      "awardType" : "Best Wide Receiver Award",
+      "customName" : "Fred Biletnikoff Award"
+    },
+    {
+      "awardType" : "Best Tight End Award",
+      "customName" : "John Mackey Award"
+    },
+    {
+      "awardType" : "Best Lineman Award",
+      "customName" : "Outland Award"
+    },
+    {
+      "awardType" : "Best Linebacker Award",
+      "customName" : "Dick Butkus Award"
+    },
+    {
+      "awardType" : "Best Defensive Back Award",
+      "customName" : "Jim Thorpe Award"
+    },
+    {
+      "awardType" : "Best Kicker Award",
+      "customName" : "Lou Groza Award"
+    },
+    {
+      "awardType" : "Best Punter Award",
+      "customName" : "Ray Guy Award"
+    },
+    {
+      "awardType" : "Freshman of the Year",
+      "customName" : "Freshman of the Year Award"
+    }
+  ],
+  "bowls" : [
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Celebration_Bowl_Logo.png",
+      "name" : "Cricket Celebration Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/content.sportslogos.net\/logos\/68\/6828\/full\/la-bowl-logo-primary-2025-682891182025.png",
+      "name" : "Bucked Up LA Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/res.cloudinary.com\/hxn9dbuhd\/image\/upload\/f_auto,c_limit,w_1200,q_auto\/v1758735766\/organizations\/a\/7\/3\/c\/a73c7fa3-7dec-4e6e-a2e3-3ceca30e2f86\/a6ae1348-207f-4d43-b524-053697f41f09.png",
+      "name" : "IS4S Veterans Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/fe\/CureBowlLogo24.svg\/1044px-CureBowlLogo24.svg.png",
+      "name" : "StaffDNA Cure Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a3\/68_Ventures_Bowl_Logo.png",
+      "name" : "68 Ventures Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/images.sidearmdev.com\/fit?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmissouristatebears.com%2Fimages%2F2025%2F12%2F4%2FBowl_Intro_Graphic_1920x1080.png&height=450&width=800&type=jpeg",
+      "name" : "Xbox Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/98\/Myrtle_Beach_Bowl_logo.png\/250px-Myrtle_Beach_Bowl_logo.png",
+      "name" : "Myrtle Beach Bowl Presented by Engine"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/df\/UnionGasparillaBowl.png",
+      "name" : "Union Home Mortgage Gasparilla Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/0c\/Famous_Idaho_Potato_Bowl_Logo.svg\/250px-Famous_Idaho_Potato_Bowl_Logo.svg.png",
+      "name" : "Famous Idaho Potato Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/i.imgur.com\/qGLus4j.png",
+      "name" : "Bush's Boca Raton Bowl of Beans"
+    },
+    {
+      "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2021\/06\/New-Orleans-Bowl-logo.png",
+      "name" : "R+L Carriers New Orleans Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/www.scooterscoffee.com\/media\/wysiwyg\/Frisco_Bowl_Logo.png",
+      "name" : "Scooter's Coffee Frisco Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c5\/Hawaii_Bowl_logo.png",
+      "name" : "Sheraton Hawaii Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/bd\/GameAbove_Sports_Bowl.png",
+      "name" : "GameAbove Sports Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/09\/RateBowlLogonew.png",
+      "name" : "Rate Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/images.squarespace-cdn.com\/content\/v1\/5af380014611a0f77fcb7470\/1630357337731-RBMSBYG8OZ5I2A5XQ4G4\/SFRB_Logo_21.png",
+      "name" : "SERVPRO First Responder Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c1\/Military_Bowl_logo.png",
+      "name" : "Go Bowling Military Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/d7\/BadBoyPinstripeBowl.png",
+      "name" : "Bad Boy Mowers Pinstripe Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f4\/WasabiFenwayBowl.png",
+      "name" : "Wasabi Fenway Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/content.sportslogos.net\/logos\/68\/6876\/full\/pop-tarts_bowl_logo_primary_20235436.png",
+      "name" : "Pop-Tarts Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a3\/Arizona_Bowl_Logo.svg\/250px-Arizona_Bowl_Logo.svg.png",
+      "name" : "Snoop Dogg Arizona Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/espnevents.com\/wp-content\/uploads\/2023\/09\/Isleta-New-Mexico-Bowl-Logo.png",
+      "name" : "Isleta New Mexico Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/86\/TaxSlayer_Gator_Bowl_logo.svg\/1200px-TaxSlayer_Gator_Bowl_logo.svg.png",
+      "name" : "TaxSlayer Gator Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/espnevents.com\/wp-content\/uploads\/2024\/12\/Kinders-Texas-Bowl-logo-103124_FC-2.png",
+      "name" : "Kinder’s Texas Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/birminghambowl.com\/wp-content\/uploads\/2025\/09\/JLab-Birmingham-Bowl-Logo-2025.png",
+      "name" : "JLAB Birmingham Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/radiancetechnologiesindependencebowl.com\/wp-content\/uploads\/2020\/12\/Radiance-Technologies-Logo_NO-DATE.png",
+      "name" : "Radiance Technologies Independence Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a8\/Music_City_Bowl_logo.png",
+      "name" : "Liberty Mutual Music City Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/d\/d6\/Valero_Alamo_Bowl_logo.svg\/1200px-Valero_Alamo_Bowl_logo.svg.png",
+      "name" : "Valero Alamo Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f0\/ReliaQuest_Bowl_logo.png",
+      "name" : "ReliaQuest Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/sunbowl.org\/assets\/logo-lg-f6aa30a7e5f1f274354938d10aee40d9995182fd9c4ab54b8b840c06409c3614.png",
+      "name" : "Tony the Tiger Sun Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/2\/26\/Citrus_Bowl_Logo.png\/250px-Citrus_Bowl_Logo.png",
+      "name" : "Cheez-It Citrus Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/www.srsdistribution.com\/contentassets\/7dc3aeb9fd4249888f04fbbbb0c494e6\/imagen0fdc.png",
+      "name" : "SRS Distribution Las Vegas Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2023\/02\/Armed-Forces-Bowl-logo.png",
+      "name" : "Lockheed Martin Armed Forces Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/www.libertybowl.org\/images\/slideshow\/AZLB_Logo_2019_PNG_Color.png",
+      "name" : "AutoZone Liberty Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4e\/Duke%27s_Mayo_Bowl_logo.svg\/1200px-Duke%27s_Mayo_Bowl_logo.svg.png",
+      "name" : "Duke’s Mayo Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/content.sportslogos.net\/logos\/68\/1849\/full\/holiday-bowl-logo-primary-2026-184916192026.png",
+      "name" : "Trust & Will Holiday Bowl"
+    }
+  ],
+  "conferences" : [
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b2\/Southeastern_Conference_logo.svg\/2048px-Southeastern_Conference_logo.svg.png",
+      "conferencePrestige" : 96,
+      "name" : "SEC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Alabama",
+          "teamB" : "Auburn"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Alabama",
+          "teamB" : "Tennessee"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Alabama",
+          "teamB" : "Mississippi State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas",
+          "teamB" : "Missouri"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas",
+          "teamB" : "Texas"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas",
+          "teamB" : "LSU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Auburn",
+          "teamB" : "Georgia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Auburn",
+          "teamB" : "Vanderbilt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida",
+          "teamB" : "Georgia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida",
+          "teamB" : "South Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida",
+          "teamB" : "Kentucky"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Georgia",
+          "teamB" : "South Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Kentucky",
+          "teamB" : "Tennessee"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Kentucky",
+          "teamB" : "South Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "LSU",
+          "teamB" : "Ole Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "LSU",
+          "teamB" : "Texas A&M"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Mississippi State",
+          "teamB" : "Ole Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Mississippi State",
+          "teamB" : "Vanderbilt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Missouri",
+          "teamB" : "Texas A&M"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Missouri",
+          "teamB" : "Oklahoma"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oklahoma",
+          "teamB" : "Ole Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oklahoma",
+          "teamB" : "Texas"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Tennessee",
+          "teamB" : "Vanderbilt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Texas",
+          "teamB" : "Texas A&M"
+        }
+      ],
+      "requiredConferenceGames" : 9,
+      "teams" : [
+        {
+          "abbreviation" : "LSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/i.imgur.com\/2Bcc21C.png",
+          "mascot" : "Tigers",
+          "name" : "LSU",
+          "offenseScheme" : "pro",
+          "prestige" : 93,
+          "primary" : "#461D7C",
+          "region" : "Southeast",
+          "secondary" : "#FDD023",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ALA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/i.imgur.com\/1I3F7Cd.png",
+          "mascot" : "Crimson Tide",
+          "name" : "Alabama",
+          "offenseScheme" : "pro",
+          "prestige" : 98,
+          "primary" : "#9E1B32",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ARK",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/606\/full\/arkansas_razorbacks_logo_primary_20014540.png",
+          "mascot" : "Razorbacks",
+          "name" : "Arkansas",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#9D2235",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "AUB",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/610\/full\/auburn_tigers_logo_primary_19667508.png",
+          "mascot" : "Tigers",
+          "name" : "Auburn",
+          "offenseScheme" : "pro",
+          "prestige" : 85,
+          "primary" : "#0C2340",
+          "region" : "Southeast",
+          "secondary" : "#E87722",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "FLA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/Florida_Gators_gator_logo.svg\/1200px-Florida_Gators_gator_logo.svg.png",
+          "mascot" : "Gators",
+          "name" : "Florida",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#0021A5",
+          "region" : "Southeast",
+          "secondary" : "#FA4616",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UGA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/687\/full\/georgia_bulldogs_logo_primary_2015_sportslogosnet-5744.png",
+          "mascot" : "Bulldogs",
+          "name" : "Georgia",
+          "offenseScheme" : "pro",
+          "prestige" : 97,
+          "primary" : "#BA0C2F",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UK",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/721\/full\/kentucky_wildcats_logo_primary_20167330.png",
+          "mascot" : "Wildcats",
+          "name" : "Kentucky",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#0033A0",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "MISS",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/754\/full\/mississippi_rebels_logo_primary_2020_sportslogosnet-1609.png",
+          "mascot" : "Rebels",
+          "name" : "Ole Miss",
+          "offenseScheme" : "pro",
+          "prestige" : 89,
+          "primary" : "#006BA6",
+          "region" : "Southeast",
+          "secondary" : "#CE1126",
+          "tertiary" : "#14213D"
+        },
+        {
+          "abbreviation" : "MSST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/i.imgur.com\/zKOUrpZ.png",
+          "mascot" : "Bulldogs",
+          "name" : "Mississippi State",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#660000",
+          "region" : "Southeast",
+          "secondary" : "#CCCCCC",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MIZ",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/757\/full\/missouri_tigers_logo_primary_20184736.png",
+          "mascot" : "Tigers",
+          "name" : "Missouri",
+          "offenseScheme" : "pro",
+          "prestige" : 85,
+          "primary" : "#000000",
+          "region" : "Plains",
+          "secondary" : "#F1B82D",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "SC",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/834\/full\/south_carolina_gamecocks_logo_primary_2008_sportslogosnet-5929.png",
+          "mascot" : "Gamecocks",
+          "name" : "South Carolina",
+          "offenseScheme" : "pro",
+          "prestige" : 85,
+          "primary" : "#73000A",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TENN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/861\/full\/tennessee_volunteers_logo_primary_20159624.png",
+          "mascot" : "Volunteers",
+          "name" : "Tennessee",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#FF8200",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#58595B"
+        },
+        {
+          "abbreviation" : "TAMU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/866\/full\/texas_a&m_aggies_logo_primary_20216040.png",
+          "mascot" : "Aggies",
+          "name" : "Texas A&M",
+          "offenseScheme" : "pro",
+          "prestige" : 89,
+          "primary" : "#500000",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "VAN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/895\/full\/vanderbilt-commodores-logo-primary-2025-89553432025.png",
+          "mascot" : "Commodores",
+          "name" : "Vanderbilt",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#866D4B",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TEX",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/865\/full\/texas_longhorns_logo_primary_2019_sportslogosnet-6146.png",
+          "mascot" : "Longhorns",
+          "name" : "Texas",
+          "offenseScheme" : "pro",
+          "prestige" : 96,
+          "primary" : "#BF5700",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "OU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/793\/full\/oklahoma_sooners_logo_primary_2018_sportslogosnet-2802.png",
+          "mascot" : "Sooners",
+          "name" : "Oklahoma",
+          "offenseScheme" : "pro",
+          "prestige" : 94,
+          "primary" : "#841617",
+          "region" : "Southwest",
+          "secondary" : "#DDCBA4",
+          "tertiary" : "#DDCBA4"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/Big_Ten_Conference_logo.png",
+      "conferencePrestige" : 95,
+      "name" : "Big Ten",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Indiana",
+          "teamB" : "Purdue"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Illinois",
+          "teamB" : "Northwestern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Illinois",
+          "teamB" : "Purdue"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa",
+          "teamB" : "Minnesota"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa",
+          "teamB" : "Nebraska"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa",
+          "teamB" : "Wisconsin"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Maryland",
+          "teamB" : "Rutgers"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Michigan",
+          "teamB" : "Michigan State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Michigan",
+          "teamB" : "Ohio State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Minnesota",
+          "teamB" : "Wisconsin"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oregon",
+          "teamB" : "Washington"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "UCLA",
+          "teamB" : "USC"
+        }
+      ],
+      "requiredConferenceGames" : 9,
+      "teams" : [
+        {
+          "abbreviation" : "IND",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/47\/Indiana_Hoosiers_logo.svg\/330px-Indiana_Hoosiers_logo.svg.png",
+          "mascot" : "Hoosiers",
+          "name" : "Indiana",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#990000",
+          "region" : "Midwest",
+          "secondary" : "#EEEDEB",
+          "tertiary" : "#EEEDEB"
+        },
+        {
+          "abbreviation" : "OSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/791\/full\/ohio_state_buckeyes_logo_primary_20134642.png",
+          "mascot" : "Buckeyes",
+          "name" : "Ohio State",
+          "offenseScheme" : "pro",
+          "prestige" : 98,
+          "primary" : "#BB0000",
+          "region" : "Midwest",
+          "secondary" : "#A7B1B7",
+          "tertiary" : "#A7B1B7"
+        },
+        {
+          "abbreviation" : "ORE",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2021\/07\/Oregon-Ducks-logo.png",
+          "mascot" : "Ducks",
+          "name" : "Oregon",
+          "offenseScheme" : "pro",
+          "prestige" : 92,
+          "primary" : "#154733",
+          "region" : "West",
+          "secondary" : "#FEE123",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "USC",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/840\/full\/southern_california_trojans_logo_primary_2016_sportslogosnet-3616.png",
+          "mascot" : "Trojans",
+          "name" : "USC",
+          "offenseScheme" : "pro",
+          "prestige" : 93,
+          "primary" : "#990000",
+          "region" : "West",
+          "secondary" : "#FFC72C",
+          "tertiary" : "#FFC72C"
+        },
+        {
+          "abbreviation" : "MICH",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/750\/full\/michigan_wolverines_logo_primary_2016_sportslogosnet-3237.png",
+          "mascot" : "Wolverines",
+          "name" : "Michigan",
+          "offenseScheme" : "pro",
+          "prestige" : 94,
+          "primary" : "#00274C",
+          "region" : "Midwest",
+          "secondary" : "#FFCB05",
+          "tertiary" : "#FFCB05"
+        },
+        {
+          "abbreviation" : "IOWA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/712\/full\/iowa_hawkeyes_logo_alternate_1979_sportslogosnet-8531.png",
+          "mascot" : "Hawkeyes",
+          "name" : "Iowa",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#FFCD00",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "WASH",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/904\/full\/washington_huskies_logo_primary_2016_sportslogosnet-3290.png",
+          "mascot" : "Huskies",
+          "name" : "Washington",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#4B2E83",
+          "region" : "West",
+          "secondary" : "#B7A57A",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ILL",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/706\/full\/illinois_fighting_illini_logo_primary_2022_sportslogosnet-6702.png",
+          "mascot" : "Fighting Illini",
+          "name" : "Illinois",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#13294B",
+          "region" : "Midwest",
+          "secondary" : "#E84A27",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MINN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f9\/Minnesota_Golden_Gophers_logo.svg\/1200px-Minnesota_Golden_Gophers_logo.svg.png",
+          "mascot" : "Golden Gophers",
+          "name" : "Minnesota",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#7A0019",
+          "region" : "Midwest",
+          "secondary" : "#FFCC33",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NEB",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/766\/full\/nebraska_cornhuskers_logo_primary_2016_sportslogosnet-2146.png",
+          "mascot" : "Cornhuskers",
+          "name" : "Nebraska",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#E41C38",
+          "region" : "Plains",
+          "secondary" : "#FDF2D9",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NW",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7c\/Northwestern_Wildcats_logo.svg\/1330px-Northwestern_Wildcats_logo.svg.png",
+          "mascot" : "Wildcats",
+          "name" : "Northwestern",
+          "offenseScheme" : "pro",
+          "prestige" : 82,
+          "primary" : "#4E2A84",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UCLA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/882\/full\/ucla_bruins_logo_primary_2017_sportslogosnet-8527.png",
+          "mascot" : "Bruins",
+          "name" : "UCLA",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#2774AE",
+          "region" : "West",
+          "secondary" : "#F2A900",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "PSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/801\/full\/penn_state_nittany_lions_logo_primary_19963046.png",
+          "mascot" : "Nittany Lions",
+          "name" : "Penn State",
+          "offenseScheme" : "pro",
+          "prestige" : 91,
+          "primary" : "#041E42",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "RUTG",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/817\/full\/rutgers_scarlet_knights_logo_primary_2016_sportslogosnet-3810.png",
+          "mascot" : "Scarlet Knights",
+          "name" : "Rutgers",
+          "offenseScheme" : "pro",
+          "prestige" : 76,
+          "primary" : "#CC0033",
+          "region" : "Northeast",
+          "secondary" : "#5F6A72",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "WIS",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/914\/full\/wisconsin_badgers_logo_primary_2017_sportslogosnet-3691.png",
+          "mascot" : "Badgers",
+          "name" : "Wisconsin",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#C5050C",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/751\/full\/michigan_state_spartans_logo_primary_2010_sportslogosnet-1215.png",
+          "mascot" : "Spartans",
+          "name" : "Michigan State",
+          "offenseScheme" : "pro",
+          "prestige" : 83,
+          "primary" : "#18453B",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFF"
+        },
+        {
+          "abbreviation" : "UMD",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/743\/full\/maryland_terrapins_logo_primary_20125749.png",
+          "mascot" : "Terrapins",
+          "name" : "Maryland",
+          "offenseScheme" : "pro",
+          "prestige" : 79,
+          "primary" : "#E21833",
+          "region" : "Northeast",
+          "secondary" : "#FFD520",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "PUR",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/809\/full\/purdue_boilermakers_logo_primary_20128157.png",
+          "mascot" : "Boilermakers",
+          "name" : "Purdue",
+          "offenseScheme" : "pro",
+          "prestige" : 76,
+          "primary" : "#CFB991",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#373A36"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c7\/Atlantic_Coast_Conference_logo.svg\/1200px-Atlantic_Coast_Conference_logo.svg.png",
+      "conferencePrestige" : 80,
+      "name" : "ACC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Boston College",
+          "teamB" : "Syracuse"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Boston College",
+          "teamB" : "Pitt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Syracuse",
+          "teamB" : "Pitt"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "North Carolina",
+          "teamB" : "Virginia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "North Carolina",
+          "teamB" : "Duke"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "North Carolina",
+          "teamB" : "NC State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "NC State",
+          "teamB" : "Wake Forest"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "NC State",
+          "teamB" : "Duke"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Duke",
+          "teamB" : "Wake Forest"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Virginia Tech",
+          "teamB" : "Virginia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Florida State",
+          "teamB" : "Clemson"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Miami",
+          "teamB" : "Florida State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Miami",
+          "teamB" : "Virginia Tech"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Stanford",
+          "teamB" : "California"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Stanford",
+          "teamB" : "SMU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "California",
+          "teamB" : "SMU"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "UVA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/898\/full\/7315_virginia_cavaliers-primary-2020.png",
+          "mascot" : "Cavaliers",
+          "name" : "Virginia",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#232D4B",
+          "region" : "Southeast",
+          "secondary" : "#F84C1E",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SMU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/842\/full\/smu_mustangs_logo_primary_2012_sportslogosnet-9312.png",
+          "mascot" : "Mustangs",
+          "name" : "SMU",
+          "offenseScheme" : "pro",
+          "prestige" : 88,
+          "primary" : "#C8102E",
+          "region" : "Southwest",
+          "secondary" : "#0033A0",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MIA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/748\/full\/miami_hurricanes_logo_primary_2024sportslogosnet7626.png",
+          "mascot" : "Hurricanes",
+          "name" : "Miami",
+          "offenseScheme" : "pro",
+          "prestige" : 93,
+          "primary" : "#F47321",
+          "region" : "Southeast",
+          "secondary" : "#005030",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "PITT",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/803\/full\/pittsburgh_panthers_logo_primary_20193456.png",
+          "mascot" : "Panthers",
+          "name" : "Pitt",
+          "offenseScheme" : "pro",
+          "prestige" : 84,
+          "primary" : "#003594",
+          "region" : "Northeast",
+          "secondary" : "#FFB81C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "GT",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/690\/full\/georgia_tech_yellow_jackets_logo_primary_20186630.png",
+          "mascot" : "Yellow Jackets",
+          "name" : "Georgia Tech",
+          "offenseScheme" : "pro",
+          "prestige" : 89,
+          "primary" : "#B3A369",
+          "region" : "Southeast",
+          "secondary" : "#003057",
+          "tertiary" : "#A28D5B"
+        },
+        {
+          "abbreviation" : "DUKE",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/663\/full\/duke_blue_devils_logo_primary_19712631.png",
+          "mascot" : "Blue Devils",
+          "name" : "Duke",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#003087",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CAL",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/630\/full\/california_golden_bears_logo_primary_20132683.png",
+          "mascot" : "Golden Bears",
+          "name" : "California",
+          "offenseScheme" : "pro",
+          "prestige" : 82,
+          "primary" : "#002676",
+          "region" : "West",
+          "secondary" : "#FDB515",
+          "tertiary" : "#3B7EA1"
+        },
+        {
+          "abbreviation" : "CLEM",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2022\/11\/Clemson-Tigers-Logo.png",
+          "mascot" : "Tigers",
+          "name" : "Clemson",
+          "offenseScheme" : "pro",
+          "prestige" : 93,
+          "primary" : "#F56600",
+          "region" : "Southeast",
+          "secondary" : "#522D80",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NCST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/777\/full\/north_carolina_state_wolfpack_logo_primary_2023_sportslogosnet-2498.png",
+          "mascot" : "Wolfpack",
+          "name" : "NC State",
+          "offenseScheme" : "pro",
+          "prestige" : 85,
+          "primary" : "#CC0000",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "LOU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/734\/full\/louisville_cardinals_logo_primary_20133882.png",
+          "mascot" : "Cardinals",
+          "name" : "Louisville",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#AD0000",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WAKE",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/903\/full\/wake_forest_demon_deacons_logo_primary_20195294.png",
+          "mascot" : "Demon Deacons",
+          "name" : "Wake Forest",
+          "offenseScheme" : "pro",
+          "prestige" : 76,
+          "primary" : "#9E7E38",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "STAN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/854\/full\/stanford_cardinal_logo_primary_20151265.png",
+          "mascot" : "Cardinal",
+          "name" : "Stanford",
+          "offenseScheme" : "pro",
+          "prestige" : 82,
+          "primary" : "#8C1515",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#53565A"
+        },
+        {
+          "abbreviation" : "FSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/d\/d5\/Florida_State_Seminoles_logo.svg\/1176px-Florida_State_Seminoles_logo.svg.png",
+          "mascot" : "Seminoles",
+          "name" : "Florida State",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#782F40",
+          "region" : "Southeast",
+          "secondary" : "#CEB888",
+          "tertiary" : "#101820"
+        },
+        {
+          "abbreviation" : "UNC",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/775\/full\/north_carolina_tar_heels_logo_primary_20152828.png",
+          "mascot" : "Tar Heels",
+          "name" : "North Carolina",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#4B9CD3",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#13294B"
+        },
+        {
+          "abbreviation" : "VT",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/901\/full\/virginia_tech_hokies_logo_primary_19832480.png",
+          "mascot" : "Hokies",
+          "name" : "Virginia Tech",
+          "offenseScheme" : "pro",
+          "prestige" : 87,
+          "primary" : "#861F41",
+          "region" : "Southeast",
+          "secondary" : "#E5751F",
+          "tertiary" : "#75787B"
+        },
+        {
+          "abbreviation" : "BC",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/618\/full\/boston_college_eagles_logo_primary_2016_sportslogosnet-4928.png",
+          "mascot" : "Eagles",
+          "name" : "Boston College",
+          "offenseScheme" : "pro",
+          "prestige" : 82,
+          "primary" : "#8C2232",
+          "region" : "Northeast",
+          "secondary" : "#DBCCA6",
+          "tertiary" : "#BC9B6A"
+        },
+        {
+          "abbreviation" : "SYR",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/859\/full\/syracuse_orange_logo_primary_2015_sportslogosnet-8431.png",
+          "mascot" : "Orange",
+          "name" : "Syracuse",
+          "offenseScheme" : "pro",
+          "prestige" : 81,
+          "primary" : "#F76900",
+          "region" : "Northeast",
+          "secondary" : "#000E54",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/29\/Big_12_Conference_%28cropped%29_logo.svg\/2560px-Big_12_Conference_%28cropped%29_logo.svg.png",
+      "conferencePrestige" : 87,
+      "name" : "Big XII",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Arizona",
+          "teamB" : "Arizona State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arizona",
+          "teamB" : "Utah"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arizona State",
+          "teamB" : "BYU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Baylor",
+          "teamB" : "Houston"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Baylor",
+          "teamB" : "TCU"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "BYU",
+          "teamB" : "Utah"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Cincinnati",
+          "teamB" : "UCF"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Cincinnati",
+          "teamB" : "West Virginia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Houston",
+          "teamB" : "UCF"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa State",
+          "teamB" : "Kansas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Iowa State",
+          "teamB" : "Oklahoma State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Kansas State",
+          "teamB" : "Kansas"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Colorado",
+          "teamB" : "Kansas"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Colorado",
+          "teamB" : "West Virginia"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Oklahoma State",
+          "teamB" : "Texas Tech"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "TCU",
+          "teamB" : "Texas Tech"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "TTU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/870\/full\/texas_tech_red_raiders_logo_primary_20072959.png",
+          "mascot" : "Red Raiders",
+          "name" : "Texas Tech",
+          "offenseScheme" : "pro",
+          "prestige" : 92,
+          "primary" : "#E80701",
+          "region" : "Southwest",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "BYU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/622\/full\/brigham_young_cougars_logo_primary_2021_sportslogosnet-1072.png",
+          "mascot" : "Cougars",
+          "name" : "BYU",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#002D5C",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#0061B7"
+        },
+        {
+          "abbreviation" : "UTAH",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/be\/Utah_Utes_logo.svg\/1121px-Utah_Utes_logo.svg.png",
+          "mascot" : "Utes",
+          "name" : "Utah",
+          "offenseScheme" : "pro",
+          "prestige" : 89,
+          "primary" : "#BD0000",
+          "region" : "West",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "HOU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/700\/full\/houston_cougars_logo_primary_2017_sportslogosnet-1807.png",
+          "mascot" : "Cougars",
+          "name" : "Houston",
+          "offenseScheme" : "pro",
+          "prestige" : 88,
+          "primary" : "#C82938",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ARIZ",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/603\/full\/arizona_wildcats_logo_primary_2011_sportslogosnet-9518.png",
+          "mascot" : "Wildcats",
+          "name" : "Arizona",
+          "offenseScheme" : "pro",
+          "prestige" : 87,
+          "primary" : "#AB0520",
+          "region" : "Southwest",
+          "secondary" : "#0C234B",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ASU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/604\/full\/arizona_state_sun_devils_logo_primary_20113691.png",
+          "mascot" : "Sun Devils",
+          "name" : "Arizona State",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#8C1D40",
+          "region" : "Southwest",
+          "secondary" : "#FFC627",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ISU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/713\/full\/iowa-state-cyclones-logo-primary-2008-7194.png",
+          "mascot" : "Cyclones",
+          "name" : "Iowa State",
+          "offenseScheme" : "pro",
+          "prestige" : 90,
+          "primary" : "#C8102E",
+          "region" : "Midwest",
+          "secondary" : "#F1BE48",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "KSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/719\/full\/kansas_state_wildcats_logo_primary_2019_sportslogosnet-4434.png",
+          "mascot" : "Wildcats",
+          "name" : "Kansas State",
+          "offenseScheme" : "pro",
+          "prestige" : 89,
+          "primary" : "#512888",
+          "region" : "Plains",
+          "secondary" : "#D1D1D1",
+          "tertiary" : "#D1D1D1"
+        },
+        {
+          "abbreviation" : "TCU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/868\/full\/tcu_horned_frogs_logo_primary_2013_sportslogosnet-3796.png",
+          "mascot" : "Horned Frogs",
+          "name" : "TCU",
+          "offenseScheme" : "pro",
+          "prestige" : 87,
+          "primary" : "#4D1979",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#A3A9AC"
+        },
+        {
+          "abbreviation" : "CIN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/642\/full\/cincinnati_bearcats_logo_primary_20054199.png",
+          "mascot" : "Bearcats",
+          "name" : "Cincinnati",
+          "offenseScheme" : "pro",
+          "prestige" : 85,
+          "primary" : "#E00122",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "BAY",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/613\/full\/baylor_bears_logo_alternate_2019_sportslogosnet-6203.png",
+          "mascot" : "Bears",
+          "name" : "Baylor",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#154734",
+          "region" : "Southwest",
+          "secondary" : "#FFB81C",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "KU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/718\/full\/kansas_jayhawks_logo_primary_20059568.png",
+          "mascot" : "Jayhawks",
+          "name" : "Kansas",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#0051BA",
+          "region" : "Plains",
+          "secondary" : "#E8000D",
+          "tertiary" : "#FFC82D"
+        },
+        {
+          "abbreviation" : "UCF",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/635\/full\/central_florida_knights_logo_primary_2017_sportslogosnet-4865.png",
+          "mascot" : "Golden Knights",
+          "name" : "UCF",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#BA9B37",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WVU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/907\/full\/west_virginia_mountaineers_logo_alternate_2016_sportslogosnet-2062.png",
+          "mascot" : "Mountaineers",
+          "name" : "West Virginia",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#EEAA00",
+          "region" : "Northeast",
+          "secondary" : "#002855",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "COLO",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/647\/full\/colorado_buffaloes_logo_primary_20053130.png",
+          "mascot" : "Buffaloes",
+          "name" : "Colorado",
+          "offenseScheme" : "pro",
+          "prestige" : 86,
+          "primary" : "#CFB87C",
+          "region" : "West",
+          "secondary" : "#565A5C",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "OKST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/794\/full\/5463_oklahoma_state_cowboys-primary-2019.png",
+          "mascot" : "Cowboys",
+          "name" : "Oklahoma State",
+          "offenseScheme" : "pro",
+          "prestige" : 87,
+          "primary" : "#FE5C00",
+          "region" : "Southwest",
+          "secondary" : "#000000",
+          "tertiary" : "#757575"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/79\/American_Athletic_Conference_logo.svg\/1910px-American_Athletic_Conference_logo.svg.png",
+      "conferencePrestige" : 75,
+      "name" : "American",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Army",
+          "teamB" : "Navy"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Charlotte",
+          "teamB" : "East Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "FAU",
+          "teamB" : "South Florida"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Memphis",
+          "teamB" : "UAB"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Rice",
+          "teamB" : "UTSA"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "NAVY",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/765\/full\/navy_midshipmen_logo_primary_2014_sportslogosnet-3416.png",
+          "mascot" : "Midshipmen",
+          "name" : "Navy",
+          "offenseScheme" : "pro",
+          "prestige" : 62,
+          "primary" : "#00225B",
+          "region" : "Northeast",
+          "secondary" : "#B5A67C",
+          "tertiary" : "#00225B"
+        },
+        {
+          "abbreviation" : "TULN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/877\/full\/tulane_green_wave_logo_primary_2017_sportslogosnet-9435.png",
+          "mascot" : "Green Wave",
+          "name" : "Tulane",
+          "offenseScheme" : "pro",
+          "prestige" : 70,
+          "primary" : "#255C4E",
+          "region" : "Southeast",
+          "secondary" : "#6FC5E8",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UNT",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/782\/full\/north_texas_mean_green_logo_secondary_20058507.png",
+          "mascot" : "Mean Green",
+          "name" : "North Texas",
+          "offenseScheme" : "pro",
+          "prestige" : 67,
+          "primary" : "#059033",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "USF",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/837\/full\/south_florida_bulls_logo_primary_2011_sportslogosnet-9058.png",
+          "mascot" : "Bulls",
+          "name" : "South Florida",
+          "offenseScheme" : "pro",
+          "prestige" : 66,
+          "primary" : "#006747",
+          "region" : "Southeast",
+          "secondary" : "#CFC493",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ECU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/665\/full\/east_carolina_pirates_logo_primary_20143417.png",
+          "mascot" : "Pirates",
+          "name" : "East Carolina",
+          "offenseScheme" : "pro",
+          "prestige" : 62,
+          "primary" : "#592A8A",
+          "region" : "Southeast",
+          "secondary" : "#FEC923",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "MEM",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/746\/full\/memphis_tigers_logo_primary_2021_sportslogosnet-9271.png",
+          "mascot" : "Tigers",
+          "name" : "Memphis",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#00498F",
+          "region" : "Southeast",
+          "secondary" : "#9C9EA1",
+          "tertiary" : "#E2E4E6"
+        },
+        {
+          "abbreviation" : "UTSA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/890\/full\/texas-sa_roadrunners_logo_primary_20226403.png",
+          "mascot" : "Roadrunners",
+          "name" : "UTSA",
+          "offenseScheme" : "pro",
+          "prestige" : 61,
+          "primary" : "#032044",
+          "region" : "Southwest",
+          "secondary" : "#F15A22",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "ARMY",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/609\/full\/army_black_knights_logo_primary_20153532.png",
+          "mascot" : "Black Knights",
+          "name" : "Army",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#D4BF91",
+          "region" : "Northeast",
+          "secondary" : "#2B2928",
+          "tertiary" : "#2B2928"
+        },
+        {
+          "abbreviation" : "TEM",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/860\/full\/temple_owls_logo_primary_2020_sportslogosnet-4595.png",
+          "mascot" : "Owls",
+          "name" : "Temple",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#9D2235",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#C1C6C8"
+        },
+        {
+          "abbreviation" : "FAU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/677\/full\/florida_atlantic_owls_logo_primary_2023_sportslogosnet-9332.png",
+          "mascot" : "Owls",
+          "name" : "FAU",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#CC0000",
+          "region" : "Southeast",
+          "secondary" : "#003366",
+          "tertiary" : "#CCCCCC"
+        },
+        {
+          "abbreviation" : "RICE",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/813\/full\/rice_owls_logo_primary_20074408.png",
+          "mascot" : "Owls",
+          "name" : "Rice",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#00205B",
+          "region" : "Southwest",
+          "secondary" : "#7C7E7F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UAB",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/879\/full\/uab_blazers_logo_primary_2025sportslogosnet9598.png",
+          "mascot" : "Blazers",
+          "name" : "UAB",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#006341",
+          "region" : "Southeast",
+          "secondary" : "#A89968",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TLSA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/878\/full\/tulsa_golden_hurricane_logo_primary_2021_sportslogosnet-4474.png",
+          "mascot" : "Golden Hurricanes",
+          "name" : "Tulsa",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#D0B787",
+          "region" : "Southwest",
+          "secondary" : "#003595",
+          "tertiary" : "#CE0E2D"
+        },
+        {
+          "abbreviation" : "CHAR",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/639\/full\/charlotte_49ers_logo_primary_20203708.png",
+          "mascot" : "49ers",
+          "name" : "Charlotte",
+          "offenseScheme" : "pro",
+          "prestige" : 60,
+          "primary" : "#005035",
+          "region" : "Southeast",
+          "secondary" : "#A49665",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/i.imgur.com\/4jOEtv2.png",
+      "conferencePrestige" : 20,
+      "name" : "MAC",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Bowling Green",
+          "teamB" : "Toledo"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Central Michigan",
+          "teamB" : "Eastern Michigan"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Central Michigan",
+          "teamB" : "Western Michigan"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Eastern Michigan",
+          "teamB" : "Western Michigan"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "WMU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/910\/full\/western_michigan_broncos_logo_primary_2021_sportslogosnet-3125.png",
+          "mascot" : "Broncos",
+          "name" : "Western Michigan",
+          "offenseScheme" : "pro",
+          "prestige" : 52,
+          "primary" : "#532E1F",
+          "region" : "Midwest",
+          "secondary" : "#F1C500",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "OHIO",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/792\/full\/ohio_bobcats_logo_primary_2011_sportslogosnet-9681.png",
+          "mascot" : "Bobcats",
+          "name" : "Ohio",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#00694E",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#AA8A00"
+        },
+        {
+          "abbreviation" : "TOL",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/874\/full\/toledo_rockets_logo_primary_2019_sportslogosnet-7348.png",
+          "mascot" : "Rockets",
+          "name" : "Toledo",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#003E7E",
+          "region" : "Midwest",
+          "secondary" : "#FFD200",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "M-OH",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/749\/full\/miami_(ohio)_redhawks_logo_primary_20126092.png",
+          "mascot" : "RedHawks",
+          "name" : "Miami (OH)",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#C41230",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#3E5468"
+        },
+        {
+          "abbreviation" : "CMU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/static.wixstatic.com\/media\/7383ad_ff45f1d1342545508af4fce74c71a3c2~mv2_d_1500_1500_s_2.png\/v1\/fill\/w_1500,h_1500,al_c\/Central%20Michigan.png",
+          "mascot" : "Chippewas",
+          "name" : "Central Michigan",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#6A0032",
+          "region" : "Midwest",
+          "secondary" : "#FFC82E",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "AKR",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/596\/full\/akron_zips_logo_primary_2022_sportslogosnet-8974.png",
+          "mascot" : "Zips",
+          "name" : "Akron",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#070C72",
+          "region" : "Midwest",
+          "secondary" : "#9D9362",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "BUFF",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/www.freelogovectors.net\/wp-content\/uploads\/2020\/10\/buffalo-bulls-logo.png",
+          "mascot" : "Bulls",
+          "name" : "Buffalo",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#005BBB",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "KENT",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/720\/full\/kent_state_golden_flashes_logo_primary_2017_sportslogosnet-4173.png",
+          "mascot" : "Golden Flashes",
+          "name" : "Kent State",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#002664",
+          "region" : "Midwest",
+          "secondary" : "#E0AC00",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "EMU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/a.espncdn.com\/combiner\/i?img=\/i\/teamlogos\/ncaa\/500\/2199.png",
+          "mascot" : "Eagles",
+          "name" : "Eastern Michigan",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#046A38",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "BALL",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/612\/full\/ball_state_cardinals_logo_primary_20153847.png",
+          "mascot" : "Cardinals",
+          "name" : "Ball State",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#BA0C2F",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "BGSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/620\/full\/bowling_green_falcons_logo_primary_2011_sportslogosnet-8773.png",
+          "mascot" : "Falcons",
+          "name" : "Bowling Green",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#FD5000",
+          "region" : "Midwest",
+          "secondary" : "#4F2C1D",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NIU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/785\/full\/northern_illinois_huskies_logo_primary_2011_sportslogosnet-3650.png",
+          "mascot" : "Huskies",
+          "name" : "Northern Illinois",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#C8102E",
+          "region" : "Midwest",
+          "secondary" : "#221E1F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MASS",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/887\/full\/massachusetts_minutemen_logo_primary_2021_sportslogosnet-3524.png",
+          "mascot" : "Minutemen",
+          "name" : "UMASS",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#881C1C",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/ac\/Pac-12_logo.svg\/250px-Pac-12_logo.svg.png",
+      "conferencePrestige" : 65,
+      "name" : "Pac 12",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 6,
+      "teams" : [
+        {
+          "abbreviation" : "WSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/07\/Washington_State_Cougars_logo.svg\/1200px-Washington_State_Cougars_logo.svg.png",
+          "mascot" : "Cougars",
+          "name" : "Washington State",
+          "offenseScheme" : "pro",
+          "prestige" : 80,
+          "primary" : "#A60F2D",
+          "region" : "West",
+          "secondary" : "#C4C4C4",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ORST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/798\/full\/oregon_state_beavers_logo_primary_20131388.png",
+          "mascot" : "Beavers",
+          "name" : "Oregon State",
+          "offenseScheme" : "pro",
+          "prestige" : 80,
+          "primary" : "#D73F09",
+          "region" : "West",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/30\/Mountain_West_Conference_logo.svg\/250px-Mountain_West_Conference_logo.svg.png",
+      "conferencePrestige" : 40,
+      "name" : "Mountain West",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "Air Force",
+          "teamB" : "Colorado State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Air Force",
+          "teamB" : "Wyoming"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Boise State",
+          "teamB" : "New Mexico"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Boise State",
+          "teamB" : "Utah State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Colorado State",
+          "teamB" : "Wyoming"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Fresno State",
+          "teamB" : "Nevada"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Fresno State",
+          "teamB" : "San Jose State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Hawaii",
+          "teamB" : "San Diego State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Hawaii",
+          "teamB" : "UNLV"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Nevada",
+          "teamB" : "UNLV"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "New Mexico",
+          "teamB" : "San Jose State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "San Diego State",
+          "teamB" : "Utah State"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "BSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/617\/full\/boise_state_broncos_logo_primary_2013_sportslogosnet-3413.png",
+          "mascot" : "Broncos",
+          "name" : "Boise State",
+          "offenseScheme" : "pro",
+          "prestige" : 68,
+          "primary" : "#0033A0",
+          "region" : "West",
+          "secondary" : "#D64309",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UNM",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/769\/full\/new_mexico_lobos_logo_primary_2023sportslogosnet1811.png",
+          "mascot" : "Lobos",
+          "name" : "New Mexico",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#BA0C2F",
+          "region" : "Southwest",
+          "secondary" : "#007A86",
+          "tertiary" : "#A7A8AA"
+        },
+        {
+          "abbreviation" : "SDSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/826\/full\/san_diego_state_aztecs_logo_primary_20137979.png",
+          "mascot" : "Aztecs",
+          "name" : "San Diego State",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#D41736",
+          "region" : "West",
+          "secondary" : "#2D2828",
+          "tertiary" : "#2D2828"
+        },
+        {
+          "abbreviation" : "UNLV",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/888\/full\/unlv_rebels_logo_primary_2018_sportslogosnet-8948.png",
+          "mascot" : "Rebels",
+          "name" : "UNLV",
+          "offenseScheme" : "pro",
+          "prestige" : 58,
+          "primary" : "#B10202",
+          "region" : "West",
+          "secondary" : "#666666",
+          "tertiary" : "#666666"
+        },
+        {
+          "abbreviation" : "FRES",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/681\/full\/fresno_state_bulldogs_logo_primary_2020_sportslogosnet-8293.png",
+          "mascot" : "Bulldogs",
+          "name" : "Fresno State",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#B1102B",
+          "region" : "West",
+          "secondary" : "#13284c",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "HAW",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/696\/full\/hawaii_warriors_logo_primary_20002927.png",
+          "mascot" : "Rainbow Warriors",
+          "name" : "Hawaii",
+          "offenseScheme" : "pro",
+          "prestige" : 54,
+          "primary" : "#024731",
+          "region" : "West",
+          "secondary" : "#000000",
+          "tertiary" : "#B2B2B2"
+        },
+        {
+          "abbreviation" : "USU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/893\/full\/utah_state_aggies_logo_primary_2019_sportslogosnet-5217.png",
+          "mascot" : "Aggies",
+          "name" : "Utah State",
+          "offenseScheme" : "pro",
+          "prestige" : 52,
+          "primary" : "#0F2439",
+          "region" : "West",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#A2AAAD"
+        },
+        {
+          "abbreviation" : "AFA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/595\/full\/air_force_falcons_logo_primary_2020_sportslogosnet-3510.png",
+          "mascot" : "Falcons",
+          "name" : "Air Force",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#003594",
+          "region" : "West",
+          "secondary" : "#B2B4B2",
+          "tertiary" : "#002554"
+        },
+        {
+          "abbreviation" : "NEV",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/767\/full\/nevada_wolf_pack_logo_primary_20081603.png",
+          "mascot" : "Wolf Pack",
+          "name" : "Nevada",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#041E42",
+          "region" : "West",
+          "secondary" : "#8A8D8F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WYO",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/918\/full\/wyoming_cowboys_logo_primary_2024_sportslogosnet-3477.png",
+          "mascot" : "Cowboys",
+          "name" : "Wyoming",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#492F24",
+          "region" : "West",
+          "secondary" : "#FFC425",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SJSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/828\/full\/san_jose_state_spartans_logo_primary_2018_sportslogosnet-7512.png",
+          "mascot" : "Spartans",
+          "name" : "San Jose State",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#0055A2",
+          "region" : "West",
+          "secondary" : "#E5A823",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/648\/full\/colorado_state_rams_logo_primary_2021_sportslogosnet-4842.png",
+          "mascot" : "Rams",
+          "name" : "Colorado State",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#1E4D2B",
+          "region" : "West",
+          "secondary" : "#C8C372",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/49\/Conference_USA_logo_%282013-2023%29.svg\/1280px-Conference_USA_logo_%282013-2023%29.svg.png",
+      "conferencePrestige" : 40,
+      "name" : "Conference USA",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "KENN",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/4949\/full\/kennesaw_state_owls_logo_primary_20121297.png",
+          "mascot" : "Owls",
+          "name" : "Kennesaw State",
+          "offenseScheme" : "pro",
+          "prestige" : 54,
+          "primary" : "#FFC629",
+          "region" : "Southeast",
+          "secondary" : "#221E1F",
+          "tertiary" : "#B0B3B2"
+        },
+        {
+          "abbreviation" : "JVST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/716\/full\/jacksonville_state_gamecocks_logo_primary_20026801.png",
+          "mascot" : "Gamecocks",
+          "name" : "Jacksonville State",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#CC0000",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WKU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/909\/full\/western_kentucky_hilltoppers_logo_primary_2017_sportslogosnet-1251.png",
+          "mascot" : "Hilltoppers",
+          "name" : "Western Kentucky",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#B01E24",
+          "region" : "Southeast",
+          "secondary" : "#ACACAC",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "LT",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/86\/Louisiana_Tech_Athletics_logo.svg\/1200px-Louisiana_Tech_Athletics_logo.svg.png",
+          "mascot" : "Bulldogs",
+          "name" : "Louisiana Tech",
+          "offenseScheme" : "pro",
+          "prestige" : 58,
+          "primary" : "#003087",
+          "region" : "Southeast",
+          "secondary" : "#CB333B",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MOST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2021\/07\/Missouri-State-Bears-logo.png",
+          "mascot" : "Bears",
+          "name" : "Missouri State",
+          "offenseScheme" : "pro",
+          "prestige" : 54,
+          "primary" : "#5E0009",
+          "region" : "Plains",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "FIU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/678\/full\/fiu_panthers_logo_primary_20105334.png",
+          "mascot" : "Panthers",
+          "name" : "Florida International",
+          "offenseScheme" : "pro",
+          "prestige" : 53,
+          "primary" : "#041E42",
+          "region" : "Southeast",
+          "secondary" : "#B58500",
+          "tertiary" : "#00C1D4"
+        },
+        {
+          "abbreviation" : "DEL",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/657\/full\/delaware_blue_hens_logo_primary_2018_sportslogosnet-4231.png",
+          "mascot" : "Blue Hens",
+          "name" : "Delaware",
+          "offenseScheme" : "pro",
+          "prestige" : 52,
+          "primary" : "#00539F",
+          "region" : "Northeast",
+          "secondary" : "#FFD200",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "LIB",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/728\/full\/liberty_flames_logo_primary_20132095.png",
+          "mascot" : "Flames",
+          "name" : "Liberty",
+          "offenseScheme" : "pro",
+          "prestige" : 53,
+          "primary" : "#B72025",
+          "region" : "Southeast",
+          "secondary" : "#0A254E",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "MTSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/752\/full\/middle_tennessee_blue_raiders_logo_primary_2019_sportslogosnet-8213.png",
+          "mascot" : "Blue Raiders",
+          "name" : "Middle Tennessee State",
+          "offenseScheme" : "pro",
+          "prestige" : 54,
+          "primary" : "#0066CC",
+          "region" : "Southeast",
+          "secondary" : "#CCCCCC",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "NMSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/770\/full\/new_mexico_state_aggies_logo_primary_2016_sportslogosnet-5086.png",
+          "mascot" : "Aggies",
+          "name" : "New Mexico State",
+          "offenseScheme" : "pro",
+          "prestige" : 54,
+          "primary" : "#8C0B42",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "UTEP",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2021\/07\/UTEP-Miners-logo.png",
+          "mascot" : "Miners",
+          "name" : "UTEP",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#041E42",
+          "region" : "Southwest",
+          "secondary" : "#FF8200",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SHSU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/823\/full\/7833_sam_houston_state_bearkats-primary-2020.png",
+          "mascot" : "Bearkats",
+          "name" : "Sam Houston",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#F56423",
+          "region" : "Southwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#004853"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferenceLogoURL" : "https:\/\/i.imgur.com\/JoqhBIo.png",
+      "conferencePrestige" : 50,
+      "name" : "Sun Belt",
+      "protectedPairs" : [
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Old Dominion"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Coastal Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Georgia Southern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Marshall"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Appalachian State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "James Madison",
+          "teamB" : "Georgia State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Old Dominion",
+          "teamB" : "Coastal Carolina"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Old Dominion",
+          "teamB" : "Georgia Southern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Old Dominion",
+          "teamB" : "Marshall"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Old Dominion",
+          "teamB" : "Appalachian State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Old Dominion",
+          "teamB" : "Georgia State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Coastal Carolina",
+          "teamB" : "Georgia Southern"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Coastal Carolina",
+          "teamB" : "Marshall"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Coastal Carolina",
+          "teamB" : "Appalachian State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Coastal Carolina",
+          "teamB" : "Georgia State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Georgia Southern",
+          "teamB" : "Marshall"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Georgia Southern",
+          "teamB" : "Appalachian State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Georgia Southern",
+          "teamB" : "Georgia State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Marshall",
+          "teamB" : "Appalachian State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Marshall",
+          "teamB" : "Georgia State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Appalachian State",
+          "teamB" : "Georgia State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Troy",
+          "teamB" : "Southern Miss"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Troy",
+          "teamB" : "Louisiana-Lafayette"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Troy",
+          "teamB" : "Arkansas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Troy",
+          "teamB" : "Texas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Troy",
+          "teamB" : "South Alabama"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Troy",
+          "teamB" : "UL Monroe"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Southern Miss",
+          "teamB" : "Louisiana-Lafayette"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Southern Miss",
+          "teamB" : "Arkansas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Southern Miss",
+          "teamB" : "Texas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Southern Miss",
+          "teamB" : "South Alabama"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Southern Miss",
+          "teamB" : "UL Monroe"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Louisiana-Lafayette",
+          "teamB" : "Arkansas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Louisiana-Lafayette",
+          "teamB" : "Texas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Louisiana-Lafayette",
+          "teamB" : "South Alabama"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Louisiana-Lafayette",
+          "teamB" : "UL Monroe"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas State",
+          "teamB" : "Texas State"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas State",
+          "teamB" : "South Alabama"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Arkansas State",
+          "teamB" : "UL Monroe"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Texas State",
+          "teamB" : "South Alabama"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "Texas State",
+          "teamB" : "UL Monroe"
+        },
+        {
+          "mutual" : true,
+          "teamA" : "South Alabama",
+          "teamB" : "UL Monroe"
+        }
+      ],
+      "requiredConferenceGames" : 8,
+      "teams" : [
+        {
+          "abbreviation" : "JMU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/717\/full\/james_madison_dukes_logo_primary_20175722.png",
+          "mascot" : "Dukes",
+          "name" : "James Madison",
+          "offenseScheme" : "pro",
+          "prestige" : 63,
+          "primary" : "#450084",
+          "region" : "Southeast",
+          "secondary" : "#CBB677",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "ODU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/795\/full\/old_dominion_monarchs_logo_primary_20027947.png",
+          "mascot" : "Monarchs",
+          "name" : "Old Dominion",
+          "offenseScheme" : "pro",
+          "prestige" : 59,
+          "primary" : "#98C5EA",
+          "region" : "Southeast",
+          "secondary" : "#043657",
+          "tertiary" : "#A0CFEF"
+        },
+        {
+          "abbreviation" : "CCU",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/645\/full\/coastal_carolina_chanticleers_logo_primary_20161761.png",
+          "mascot" : "Chanticleers",
+          "name" : "Coastal Carolina",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#006F71",
+          "region" : "Southeast",
+          "secondary" : "#A27752",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "GASO",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/688\/full\/georgia_southern_eagles_logo_primary_2016_sportslogosnet-7753.png",
+          "mascot" : "Eagles",
+          "name" : "Georgia Southern",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#041E42",
+          "region" : "Southeast",
+          "secondary" : "#A5ACAF",
+          "tertiary" : "#A99260"
+        },
+        {
+          "abbreviation" : "MRSH",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/742\/full\/marshall_thundering_herd_logo_primary_2015_sportslogosnet-2274.png",
+          "mascot" : "Thundering Herd",
+          "name" : "Marshall",
+          "offenseScheme" : "pro",
+          "prestige" : 56,
+          "primary" : "#00AC3E",
+          "region" : "Northeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "APP",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/602\/full\/appalachian_state_mountaineers_logo_alternate_20134159.png",
+          "mascot" : "Mountaineers",
+          "name" : "Appalachian State",
+          "offenseScheme" : "pro",
+          "prestige" : 54,
+          "primary" : "#212121",
+          "region" : "Southeast",
+          "secondary" : "#FFCC00",
+          "tertiary" : "#CCCCCC"
+        },
+        {
+          "abbreviation" : "GAST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/31\/689\/full\/georgia_state_panthers_logo_primary_20151761.png",
+          "mascot" : "Panthers",
+          "name" : "Georgia State",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#0039A6",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "TROY",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/876\/full\/troy_trojans_logo_alternate_2016_sportslogosnet-1079.png",
+          "mascot" : "Trojans",
+          "name" : "Troy",
+          "offenseScheme" : "pro",
+          "prestige" : 55,
+          "primary" : "#862633",
+          "region" : "Southeast",
+          "secondary" : "#B1B1B1",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "USM",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5d\/Southern_Miss_Athletics_logo.svg\/1200px-Southern_Miss_Athletics_logo.svg.png",
+          "mascot" : "Golden Eagles",
+          "name" : "Southern Miss",
+          "offenseScheme" : "pro",
+          "prestige" : 53,
+          "primary" : "#000000",
+          "region" : "Southeast",
+          "secondary" : "#FFD046",
+          "tertiary" : "#FFAB00"
+        },
+        {
+          "abbreviation" : "ULL",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/732\/full\/louisiana_ragin_cajuns_logo_primary_2018_sportslogosnet-3968.png",
+          "mascot" : "Ragin' Cajuns",
+          "name" : "Louisiana-Lafayette",
+          "offenseScheme" : "pro",
+          "prestige" : 57,
+          "primary" : "#CE181E",
+          "region" : "Southeast",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ARST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/30\/605\/full\/arkansas_state_red_wolves_logo_primary_2015_sportslogosnet-5612.png",
+          "mascot" : "Red Wolves",
+          "name" : "Arkansas State",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#CC092F",
+          "region" : "Southeast",
+          "secondary" : "#000000",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "USA",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/833\/full\/south-alabama-jaguars-logo-primary-2018-83323002018.png",
+          "mascot" : "Jaguars",
+          "name" : "South Alabama",
+          "offenseScheme" : "pro",
+          "prestige" : 51,
+          "primary" : "#00205B",
+          "region" : "Southeast",
+          "secondary" : "#BF0D3E",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "ULM",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/32\/733\/full\/louisiana-monroe_warhawks_logo_primary_20187644.png",
+          "mascot" : "Warhawks",
+          "name" : "UL Monroe",
+          "offenseScheme" : "pro",
+          "prestige" : 50,
+          "primary" : "#840029",
+          "region" : "Southeast",
+          "secondary" : "##FDB913",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "TXST",
+          "defenseScheme" : "4-2-5",
+          "logoURL" : "https:\/\/content.sportslogos.net\/logos\/34\/847\/full\/texas_state_bobcats_logo_primary_2021_sportslogosnet-2291.png",
+          "mascot" : "Bobcats",
+          "name" : "Texas State",
+          "offenseScheme" : "pro",
+          "prestige" : 52,
+          "primary" : "#501214",
+          "region" : "Southwest",
+          "secondary" : "#D7BD8A",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    }
+  ],
+  "independents" : [
+    {
+      "abbreviation" : "ND",
+      "defenseScheme" : "4-2-5",
+      "logoURL" : "https:\/\/content.sportslogos.net\/logos\/33\/789\/full\/notre_dame_fighting_irish_logo_primary_20155907.png",
+      "mascot" : "Fighting Irish",
+      "name" : "Notre Dame",
+      "offenseScheme" : "pro",
+      "prestige" : 94,
+      "primary" : "#AE9142",
+      "region" : "Midwest",
+      "secondary" : "#0C2340",
+      "tertiary" : "#0A843D"
+    },
+    {
+      "abbreviation" : "CONN",
+      "defenseScheme" : "4-2-5",
+      "logoURL" : "https:\/\/content.sportslogos.net\/logos\/35\/884\/full\/uconn_huskies_logo_primary_20139813.png",
+      "mascot" : "Huskies",
+      "name" : "UCONN",
+      "offenseScheme" : "pro",
+      "prestige" : 52,
+      "primary" : "#000E2F",
+      "region" : "Northeast",
+      "secondary" : "#EB1B2B",
+      "tertiary" : "#CCCCCC"
+    },
+    {
+            "abbreviation": "ACU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Wildcats",
+            "name": "Abilene Christian",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#60177B",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/2587\/full\/abilene_christian_wildcats_logo_primary_20152413.png"
+        },
+        {
+            "abbreviation": "AAM",
+            "defenseScheme": "4-2-5",
+            "mascot": "Bulldogs",
+            "name": "Alabama A&M",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#5B0600",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/601\/full\/alabama_am_bulldogs_logo_primary_20013054.png"
+        },
+        {
+            "abbreviation": "ASU",
+            "defenseScheme": "4-3",
+            "mascot": "Hornets",
+            "name": "Alabama State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#000000",
+            "region": "Southeast",
+            "secondary": "#F4EB00",
+            "tertiary": "#6F6F6F",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/602\/full\/alabama_state_hornets_logo_primary_20003055.png"
+        },
+        {
+            "abbreviation": "ALB",
+            "defenseScheme": "4-2-5",
+            "mascot": "Great Danes",
+            "name": "Albany",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#6F6F6F",
+            "region": "Northeast",
+            "secondary": "#60177B",
+            "tertiary": "#F4EB00",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/596\/full\/albany_great_danes_logo_primary_20005786.png"
+        },
+        {
+            "abbreviation": "ACON",
+            "defenseScheme": "4-3",
+            "mascot": "Braves",
+            "name": "Alcorn State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#60177B",
+            "region": "Southeast",
+            "secondary": "#D6D700",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/603\/full\/alcorn_state_braves_logo_primary_20003051.png"
+        },
+        {
+            "abbreviation": "UAPB",
+            "defenseScheme": "4-3",
+            "mascot": "Lions",
+            "name": "Arkansas-Pine Bluff",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#D09C00",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/611\/full\/arkansas-pine_bluff_golden_lions_logo_primary_20152416.png"
+        },
+        {
+            "abbreviation": "APU",
+            "defenseScheme": "4-3",
+            "mascot": "Governors",
+            "name": "Austin Peay",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/617\/full\/austin_peay_governors_logo_primary_20144964.png"
+        },
+        {
+            "abbreviation": "BCU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Wildcats",
+            "name": "Bethune-Cookman",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#821000",
+            "region": "Southeast",
+            "secondary": "#D28200",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/619\/full\/bethune-cookman_wildcats_logo_primary_20003052.png"
+        },
+        {
+            "abbreviation": "BROWN",
+            "defenseScheme": "4-3",
+            "mascot": "Bears",
+            "name": "Brown",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#821000",
+            "region": "Northeast",
+            "secondary": "#594400",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/629\/full\/brown_bears_logo_primary_20002130.png"
+        },
+        {
+            "abbreviation": "BRYU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Bulldogs",
+            "name": "Bryant",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#656000",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/630\/full\/bryant_bulldogs_logo_primary_20121759.png"
+        },
+        {
+            "abbreviation": "BUCK",
+            "defenseScheme": "4-3",
+            "mascot": "Bison",
+            "name": "Bucknell",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF6900",
+            "region": "Northeast",
+            "secondary": "#002E7A",
+            "tertiary": "#989898",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/632\/full\/bucknell_bison_logo_primary_20152418.png"
+        },
+        {
+            "abbreviation": "BUT",
+            "defenseScheme": "4-3",
+            "mascot": "Bulldogs",
+            "name": "Butler",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#6F6F6F",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/631\/full\/butler_bulldogs_logo_primary_20155912.png"
+        },
+        {
+            "abbreviation": "CP",
+            "defenseScheme": "3-4",
+            "mascot": "Mustangs",
+            "name": "Cal Poly",
+            "offenseScheme": "option",
+            "prestige": 50,
+            "primary": "#FFEA9E",
+            "region": "West",
+            "secondary": "#375619",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/630\/full\/cal_poly_mustangs_logo_primary_20017188.png"
+        },
+        {
+            "abbreviation": "CAMP",
+            "defenseScheme": "4-2-5",
+            "mascot": "Camels",
+            "name": "Campbell",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#FF6900",
+            "region": "Southeast",
+            "secondary": "#000000",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/635\/full\/campbell_camels_logo_primary_20146014.png"
+        },
+        {
+            "abbreviation": "CCU",
+            "defenseScheme": "4-3",
+            "mascot": "Blue Devils",
+            "name": "Central Connecticut",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#0041A8",
+            "region": "Northeast",
+            "secondary": "#848484",
+            "tertiary": "#FFFFFF",
+            "logoURL": ""
+        },
+        {
+            "abbreviation": "CSU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Buccaneers",
+            "name": "Charleston Southern",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Southeast",
+            "secondary": "#8C8501",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/641\/full\/charleston_southern_buccaneers_logo_primary_20111513.png"
+        },
+        {
+            "abbreviation": "NOOGA",
+            "defenseScheme": "4-3",
+            "mascot": "Mocs",
+            "name": "Chattanooga",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#D09C00",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/642\/full\/chattanooga_mocs_logo_primary_20001554.png"
+        },
+        {
+            "abbreviation": "CSTU",
+            "defenseScheme": "4-3",
+            "mascot": "Cougars",
+            "name": "Chicago State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#375619",
+            "region": "Midwest",
+            "secondary": "#000000",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/30\/641\/full\/chicago_state_cougars_logo_primary_20111513.png"
+        },
+        {
+            "abbreviation": "COLG",
+            "defenseScheme": "4-3",
+            "mascot": "Raiders",
+            "name": "Colgate",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#78193C",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/648\/full\/colgate_raiders_logo_primary_20202997.png"
+        },
+        {
+            "abbreviation": "COL",
+            "defenseScheme": "4-3",
+            "mascot": "Lions",
+            "name": "Columbia",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#00C6FB",
+            "region": "Northeast",
+            "secondary": "#002E7A",
+            "tertiary": "#000000",
+            "logoURL": ""
+        },
+        {
+            "abbreviation": "CORN",
+            "defenseScheme": "4-3",
+            "mascot": "Big Red",
+            "name": "Cornell",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#821000",
+            "region": "Northeast",
+            "secondary": "#574700",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/654\/full\/cornell_big_red_logo_primary_20042469.png"
+        },
+        {
+            "abbreviation": "DART",
+            "defenseScheme": "4-3",
+            "mascot": "Big Green",
+            "name": "Dartmouth",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#375619",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/661\/full\/dartmouth_big_green_logo_primary_20164801.png"
+        },
+        {
+            "abbreviation": "DAV",
+            "defenseScheme": "4-2-5",
+            "mascot": "Wildcats",
+            "name": "Davidson",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#6F6F6F",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/662\/full\/davidson_wildcats_logo_primary_20121762.png"
+        },
+        {
+            "abbreviation": "DAY",
+            "defenseScheme": "4-3",
+            "mascot": "Flyers",
+            "name": "Dayton",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#E12300",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/662\/full\/dayton_flyers_logo_primary_20016336.png"
+        },
+        {
+            "abbreviation": "DWST",
+            "defenseScheme": "4-3",
+            "mascot": "Hornets",
+            "name": "Delaware State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#E12300",
+            "region": "Northeast",
+            "secondary": "#51D5FB",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/663\/full\/delaware_state_hornets_logo_primary_20018512.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Bulldogs",
+            "name": "Drake",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#848484",
+            "region": "Midwest",
+            "secondary": "#002E7A",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/671\/full\/drake_bulldogs_logo_primary_20152419.png"
+        },
+        {
+            "abbreviation": "DU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Dukes",
+            "name": "Duquesne",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Northeast",
+            "secondary": "#000000",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/673\/full\/duquesne_dukes_logo_primary_20216773.png"
+        },
+        {
+            "abbreviation": "ETST",
+            "defenseScheme": "4-2-5",
+            "mascot": "Buccaneers",
+            "name": "East Tennessee State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Southeast",
+            "secondary": "#F4EB00",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/674\/full\/east_tennessee_state_buccaneers_logo_primary_20146016.png"
+        },
+        {
+            "abbreviation": "ET",
+            "defenseScheme": "4-2-5",
+            "mascot": "Lions",
+            "name": "East Texas A&M",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#F9CA00",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/6132\/full\/east_texas_am_lions_logo_primary_20242417.png"
+        },
+        {
+            "abbreviation": "EIU",
+            "defenseScheme": "4-3",
+            "mascot": "Panthers",
+            "name": "Eastern Illinois",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#0055D5",
+            "region": "Midwest",
+            "secondary": "#001C56",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/675\/full\/eastern_illinois_panthers_logo_primary_20001391.png"
+        },
+        {
+            "abbreviation": "EKU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Colonels ",
+            "name": "Eastern Kentucky",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#821000",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/677\/full\/eastern_kentucky_colonels_logo_primary_20121756.png"
+        },
+        {
+            "abbreviation": "EWU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Eagles",
+            "name": "Eastern Washington",
+            "offenseScheme": "airRaid",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/676\/full\/eastern_washington_eagles_logo_primary_20015509.png"
+        },
+        {
+            "abbreviation": "ELON",
+            "defenseScheme": "4-2-5",
+            "mascot": "Phoenix",
+            "name": "Elon",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#591B00",
+            "region": "Southeast",
+            "secondary": "#656000",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/678\/full\/elon_phoenix_logo_primary_20143890.png"
+        },
+        {
+            "abbreviation": "FAM",
+            "defenseScheme": "4-2-5",
+            "mascot": "Rattlers",
+            "name": "Florida A&M",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#D95000",
+            "region": "Southeast",
+            "secondary": "#4D7926",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/681\/full\/florida_am_rattlers_logo_primary_20144966.png"
+        },
+        {
+            "abbreviation": "FORD",
+            "defenseScheme": "4-2-5",
+            "mascot": "Rams",
+            "name": "Fordham",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#848484",
+            "region": "Northeast",
+            "secondary": "#821000",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/683\/full\/fordham_rams_logo_primary_20015589.png"
+        },
+        {
+            "abbreviation": "FUR",
+            "defenseScheme": "4-3",
+            "mascot": "Paladins",
+            "name": "Furman",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#60177B",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/686\/full\/furman_paladins_logo_primary_20165912.png"
+        },
+        {
+            "abbreviation": "GW",
+            "defenseScheme": "4-2-5",
+            "mascot": "Runnin\u2019 Bulldogs",
+            "name": "Gardner-Webb",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#CC0000",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/687\/full\/gardner-webb_runnin_bulldogs_logo_primary_20004941.png"
+        },
+        {
+            "abbreviation": "GEO",
+            "defenseScheme": "4-2-5",
+            "mascot": "Hoyas",
+            "name": "Georgetown",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Northeast",
+            "secondary": "#848484",
+            "tertiary": "#FFFFFF",
+            "logoURL": ""
+        },
+        {
+            "abbreviation": "GSU",
+            "defenseScheme": "4-3",
+            "mascot": "Tigers",
+            "name": "Grambling State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#A57A00",
+            "region": "Southeast",
+            "secondary": "#000000",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/694\/full\/grambling_state_tigers_logo_primary_20003002.png"
+        },
+        {
+            "abbreviation": "HAMU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Pirates",
+            "name": "Hampton",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#0041A8",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/698\/full\/hampton_pirates_logo_primary_20016335.png"
+        },
+        {
+            "abbreviation": "HU",
+            "defenseScheme": "4-3",
+            "mascot": "Crimson",
+            "name": "Harvard",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/700\/full\/harvard_crimson_logo_primary_20002131.png"
+        },
+        {
+            "abbreviation": "HC",
+            "defenseScheme": "4-3",
+            "mascot": "Crusaders",
+            "name": "Holy Cross",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#9729BB",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/702\/full\/holy_cross_crusaders_logo_primary_20015590.png"
+        },
+        {
+            "abbreviation": "HCU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Huskies",
+            "name": "Houston Christian",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#E12300",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/4640\/full\/houston_baptist_huskies_logo_primary_20138985.png"
+        },
+        {
+            "abbreviation": "HU",
+            "defenseScheme": "4-3",
+            "mascot": "Bisons",
+            "name": "Howard",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Northeast",
+            "secondary": "#848484",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/704\/full\/howard_bison_logo_primary_20152438.png"
+        },
+        {
+            "abbreviation": "IDHO",
+            "defenseScheme": "4-3",
+            "mascot": "Vandals",
+            "name": "Idaho",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#EFD000",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/706\/full\/idaho_vandals_logo_primary_20202996.png"
+        },
+        {
+            "abbreviation": "ISU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Bengals",
+            "name": "Idaho State",
+            "offenseScheme": "airRaid",
+            "prestige": 50,
+            "primary": "#C17500",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/707\/full\/idaho_state_bengals_logo_primary_20002167.png"
+        },
+        {
+            "abbreviation": "ISU",
+            "defenseScheme": "4-3",
+            "mascot": "Redbirds",
+            "name": "Illinois State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/709\/full\/illinois_state_redbirds_logo_primary_20015505.png"
+        },
+        {
+            "abbreviation": "IWU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Cardinals",
+            "name": "Incarnate Word",
+            "offenseScheme": "airRaid",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/2599\/full\/incarnate_word_cardinals_logo_primary_20152427.png"
+        },
+        {
+            "abbreviation": "ISU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Sycamores ",
+            "name": "Indiana State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Midwest",
+            "secondary": "#848484",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/712\/full\/indiana_state_sycamores_logo_primary_20015504.png"
+        },
+        {
+            "abbreviation": "JSU",
+            "defenseScheme": "4-3",
+            "mascot": "Tigers",
+            "name": "Jackson State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/716\/full\/jackson_state_tigers_logo_primary_20003053.png"
+        },
+        {
+            "abbreviation": "LAF",
+            "defenseScheme": "4-3",
+            "mascot": "Leopards",
+            "name": "Lafayette",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#848484",
+            "region": "Northeast",
+            "secondary": "#821000",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/725\/full\/lafayette_leopards_logo_primary_20015592.png"
+        },
+        {
+            "abbreviation": "LU",
+            "defenseScheme": "4-3",
+            "mascot": "Cardinals",
+            "name": "Lamar",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/726\/full\/lamar_cardinals_logo_primary_20001558.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Mountain Hawks",
+            "name": "Lehigh",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#D28200",
+            "region": "Northeast",
+            "secondary": "#775700",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/733\/full\/lehigh_mountain_hawks_logo_primary_20002133.png"
+        },
+        {
+            "abbreviation": "LIN",
+            "defenseScheme": "3-3-5",
+            "mascot": "Lions",
+            "name": "Lindenwood",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#656000",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/4737\/full\/lindenwood_lions_logo_primary_20152431.png"
+        },
+        {
+            "abbreviation": "LIU",
+            "defenseScheme": "4-3",
+            "mascot": "Sharks",
+            "name": "Long Island",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#51D5FB",
+            "region": "Northeast",
+            "secondary": "#F4EB00",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/6069\/full\/long_island_university_sharks_logo_primary_20199187.png"
+        },
+        {
+            "abbreviation": "MNU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Black Bears",
+            "name": "Maine",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#73A6FF",
+            "region": "Northeast",
+            "secondary": "#5B5B5B",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/744\/full\/maine_black_bears_logo_primary_20001859.png"
+        },
+        {
+            "abbreviation": "MAR",
+            "defenseScheme": "4-3",
+            "mascot": "Red Foxes",
+            "name": "Marist",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/748\/full\/marist_red_foxes_logo_primary_20152433.png"
+        },
+        {
+            "abbreviation": "MCNEESE",
+            "defenseScheme": "4-3",
+            "mascot": "Cowboys",
+            "name": "McNeese",
+            "offenseScheme": "power",
+            "prestige": 50,
+            "primary": "#F4EB00",
+            "region": "Southeast",
+            "secondary": "#0055D5",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/750\/full\/mcneese_state_cowboys_logo_primary_20165911.png"
+        },
+        {
+            "abbreviation": "MER",
+            "defenseScheme": "4-3",
+            "mascot": "Bears",
+            "name": "Mercer",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF6900",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/2602\/full\/mercer_bears_logo_primary_20141675.png"
+        },
+        {
+            "abbreviation": "MURR",
+            "defenseScheme": "4-2-5",
+            "mascot": "Lakers",
+            "name": "Mercyhurst",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#375619",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/4648\/full\/mercyhurst_lakers_logo_primary_20152410.png"
+        },
+        {
+            "abbreviation": "MCU",
+            "defenseScheme": "4-3",
+            "mascot": "Warriors",
+            "name": "Merrimack",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Northeast",
+            "secondary": "#A57A00",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/2603\/full\/merrimack_warriors_logo_primary_20152411.png"
+        },
+        {
+            "abbreviation": "MVS",
+            "defenseScheme": "4-3",
+            "mascot": "Delta Devils",
+            "name": "Mississippi Valley State",
+            "offenseScheme": "power",
+            "prestige": 50,
+            "primary": "#4D7926",
+            "region": "Southeast",
+            "secondary": "#E12300",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/757\/full\/mississippi_valley_state_delta_devils_logo_primary_20152434.png"
+        },
+        {
+            "abbreviation": "MONM",
+            "defenseScheme": "4-2-5",
+            "mascot": "Hawks",
+            "name": "Monmouth",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#10043A",
+            "region": "Northeast",
+            "secondary": "#5B5B5B",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/760\/full\/monmouth_hawks_logo_primary_20137542.png"
+        },
+        {
+            "abbreviation": "MONT",
+            "defenseScheme": "4-3",
+            "mascot": "Grizzlies",
+            "name": "Montana",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#7A0000",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/758\/full\/montana_grizzlies_logo_primary_20131464.png"
+        },
+        {
+            "abbreviation": "MSU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Bobcats",
+            "name": "Montana State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#003690",
+            "region": "West",
+            "secondary": "#A29500",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/761\/full\/montana_state_bobcats_logo_primary_20138986.png"
+        },
+        {
+            "abbreviation": "MST",
+            "defenseScheme": "4-3",
+            "mascot": "Eagles",
+            "name": "Morehead State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FFFFFF",
+            "region": "Southeast",
+            "secondary": "#F4EB00",
+            "tertiary": "#001C56",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/762\/full\/morehead_state_eagles_logo_primary_20004943.png"
+        },
+        {
+            "abbreviation": "MST",
+            "defenseScheme": "4-2-5",
+            "mascot": "Bears",
+            "name": "Morgan State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#FFD873",
+            "region": "Northeast",
+            "secondary": "#001C56",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/763\/full\/morgan_state_bears_logo_primary_20012211.png"
+        },
+        {
+            "abbreviation": "MURR",
+            "defenseScheme": "4-2-5",
+            "mascot": "Racers",
+            "name": "Murray State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#D09C00",
+            "region": "Southeast",
+            "secondary": "#10043A",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/768\/full\/murray_state_racers_logo_primary_20015514.png"
+        },
+        {
+            "abbreviation": "UNH",
+            "defenseScheme": "4-2-5",
+            "mascot": "Wildcats",
+            "name": "New Hampshire",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#6F6F6F",
+            "region": "Southeast",
+            "secondary": "#001C56",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/772\/full\/new_hampshire_wildcats_logo_primary_20002237.png"
+        },
+        {
+            "abbreviation": "NHU",
+            "defenseScheme": "4-3",
+            "mascot": "Chargers",
+            "name": "New Haven",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FFFFFF",
+            "region": "Northeast",
+            "secondary": "#C3BB00",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/2678\/full\/new_haven_chargers_logo_primary_20002231.png"
+        },
+        {
+            "abbreviation": "NU",
+            "defenseScheme": "4-3",
+            "mascot": "Colonels",
+            "name": "Nicholls",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/774\/full\/nicholls_state_colonels_logo_primary_20002239.png"
+        },
+        {
+            "abbreviation": "NOR",
+            "defenseScheme": "4-2-5",
+            "mascot": "Spartans",
+            "name": "Norfolk State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#B0DC8A",
+            "region": "Southeast",
+            "secondary": "#E9F18E",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/776\/full\/norfolk_state_spartans_logo_primary_20003058.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Lions",
+            "name": "North Alabama",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#440C58",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": ""
+        },
+        {
+            "abbreviation": "UAT",
+            "defenseScheme": "4-3",
+            "mascot": "Aggies",
+            "name": "North Carolina A&T",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#D09C00",
+            "region": "Southeast",
+            "secondary": "#001C56",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/778\/full\/north_carolina_at_aggies_logo_primary_20152414.png"
+        },
+        {
+            "abbreviation": "NCC",
+            "defenseScheme": "4-3",
+            "mascot": "Eagles",
+            "name": "North Carolina Central",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#ACACAC",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/779\/full\/north_carolina_central_eagles_logo_primary_20005720.png"
+        },
+        {
+            "abbreviation": "UND",
+            "defenseScheme": "4-3",
+            "mascot": "Fighting Hawks",
+            "name": "North Dakota",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#008D00",
+            "region": "Plains",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/779\/full\/north_dakota_fighting_hawks_logo_primary_20163567.png"
+        },
+        {
+            "abbreviation": "NDSU",
+            "defenseScheme": "4-3",
+            "mascot": "Bison",
+            "name": "North Dakota State",
+            "offenseScheme": "power",
+            "prestige": 50,
+            "primary": "#375619",
+            "region": "Plains",
+            "secondary": "#FDFA40",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/780\/full\/north_dakota_state_bison_logo_primary_20004940.png"
+        },
+        {
+            "abbreviation": "NAU",
+            "defenseScheme": "4-3",
+            "mascot": "Lumberjacks",
+            "name": "Northern Arizona",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#001D86",
+            "region": "Southwest",
+            "secondary": "#F6DF00",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/782\/full\/northern_arizona_lumberjacks_logo_primary_20144967.png"
+        },
+        {
+            "abbreviation": "UNCO",
+            "defenseScheme": "4-3",
+            "mascot": "Bears",
+            "name": "Northern Colorado",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Plains",
+            "secondary": "#FCC600",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/783\/full\/northern_colorado_bears_logo_primary_20067602.png"
+        },
+        {
+            "abbreviation": "UNI",
+            "defenseScheme": "4-3",
+            "mascot": "Panthers",
+            "name": "Northern Iowa",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FFAA00",
+            "region": "Midwest",
+            "secondary": "#440C58",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/785\/full\/northern_iowa_panthers_logo_primary_20015494.png"
+        },
+        {
+            "abbreviation": "NSU",
+            "defenseScheme": "4-3",
+            "mascot": "Demons",
+            "name": "Northwestern State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#79209D",
+            "region": "Southeast",
+            "secondary": "#FF6900",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/787\/full\/northwestern_state_demons_logo_primary_20015543.png"
+        },
+        {
+            "abbreviation": "PENN",
+            "defenseScheme": "4-3",
+            "mascot": "Quakers",
+            "name": "Penn",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Northeast",
+            "secondary": "#821000",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/804\/full\/pennsylvania_quakers_logo_primary_20002134.png"
+        },
+        {
+            "abbreviation": "PSU",
+            "defenseScheme": "3-3-5",
+            "mascot": "Vikings",
+            "name": "Portland State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#205300",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/814\/full\/portland_state_vikings_logo_primary_20209689.png"
+        },
+        {
+            "abbreviation": "PVAMU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Panthers",
+            "name": "Prairie View A&M",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#000000",
+            "region": "Southeast",
+            "secondary": "#60177B",
+            "tertiary": "#A57A00",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/813\/full\/prairie_view_am_panthers_logo_primary_20011516.png"
+        },
+        {
+            "abbreviation": "PC",
+            "defenseScheme": "4-2-5",
+            "mascot": "Blue Hose",
+            "name": "Presbyterian",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#0055D5",
+            "region": "Southeast",
+            "secondary": "#7A2800",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/815\/full\/presbyterian_blue_hose_logo_primary_20152439.png"
+        },
+        {
+            "abbreviation": "PRINCE",
+            "defenseScheme": "4-3",
+            "mascot": "Warriors",
+            "name": "Princeton",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF6900",
+            "region": "Northeast",
+            "secondary": "#000000",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/816\/full\/princeton_tigers_logo_primary_20002135.png"
+        },
+        {
+            "abbreviation": "RICH",
+            "defenseScheme": "4-3",
+            "mascot": "Spiders",
+            "name": "Richmond",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/825\/full\/richmond_spiders_logo_primary_20002445.png"
+        },
+        {
+            "abbreviation": "RIU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Rams",
+            "name": "Road Island",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#73A6FF",
+            "region": "Northeast",
+            "secondary": "#002E7A",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/824\/full\/rhode_island_rams_logo_primary_20002444.png"
+        },
+        {
+            "abbreviation": "RMU",
+            "defenseScheme": "4-3",
+            "mascot": "Colonials",
+            "name": "Robert Morris",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#78193C",
+            "region": "Northeast",
+            "secondary": "#001C56",
+            "tertiary": "#848484",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/826\/full\/robert_morris_colonials_logo_primary_20202998.png"
+        },
+        {
+            "abbreviation": "SAC",
+            "defenseScheme": "4-3",
+            "mascot": "Hornets",
+            "name": "Sacramento State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#375619",
+            "region": "Southwest",
+            "secondary": "#656000",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/828\/full\/sacramento_state_hornets_logo_primary_20002446.png"
+        },
+        {
+            "abbreviation": "SHU",
+            "defenseScheme": "4-3",
+            "mascot": "Pioneers",
+            "name": "Sacred Heart",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#B41900",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/834\/full\/sacred_heart_pioneers_logo_primary_20159419.png"
+        },
+        {
+            "abbreviation": "SAM",
+            "defenseScheme": "4-2-5",
+            "mascot": "Bulldogs",
+            "name": "Samford",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#848484",
+            "region": "Southeast",
+            "secondary": "#001C56",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/829\/full\/samford_bulldogs_logo_primary_20002447.png"
+        },
+        {
+            "abbreviation": "SDU",
+            "defenseScheme": "4-3",
+            "mascot": "Toreros",
+            "name": "San Diego",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#0060FD",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": ""
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Bulldogs",
+            "name": "South Carolina State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/840\/full\/south_carolina_state_bulldogs_logo_primary_20002821.png"
+        },
+        {
+            "abbreviation": "USD",
+            "defenseScheme": "4-3",
+            "mascot": "Coyotes",
+            "name": "South Dakota",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Plains",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/840\/full\/south_dakota_coyotes_logo_primary_20135870.png"
+        },
+        {
+            "abbreviation": "SDSU",
+            "defenseScheme": "4-3",
+            "mascot": "Jackrabbits",
+            "name": "South Dakota State",
+            "offenseScheme": "power",
+            "prestige": 50,
+            "primary": "#0055D5",
+            "region": "Plains",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/841\/full\/south_dakota_state_jackrabbits_logo_primary_20058983.png"
+        },
+        {
+            "abbreviation": "SEMO",
+            "defenseScheme": "4-3",
+            "mascot": "Redbirds",
+            "name": "Southeast Missouri State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/838\/full\/southeast_missouri_state_redhawks_logo_primary_20121757.png"
+        },
+        {
+            "abbreviation": "SLU",
+            "defenseScheme": "4-3",
+            "mascot": "Lions",
+            "name": "Southeastern Louisiana",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#4D7926",
+            "region": "Southeast",
+            "secondary": "#C3BB00",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/843\/full\/southeastern_louisiana_lions_logo_primary_20002672.png"
+        },
+        {
+            "abbreviation": "SU",
+            "defenseScheme": "4-3",
+            "mascot": "Jaguars",
+            "name": "Southern",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#00C6FB",
+            "region": "Southeast",
+            "secondary": "#F4EB00",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/843\/full\/southern_jaguars_logo_primary_20144968.png"
+        },
+        {
+            "abbreviation": "SIU",
+            "defenseScheme": "4-3",
+            "mascot": "Salukis",
+            "name": "Southern Illinois",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#760000",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/844\/full\/southern_illinois_salukis_logo_primary_20015533.png"
+        },
+        {
+            "abbreviation": "SUU",
+            "defenseScheme": "4-3",
+            "mascot": "Thunder Birds",
+            "name": "Southern Utah",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#FFFFFF",
+            "region": "West",
+            "secondary": "#B41900",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/846\/full\/southern_utah_thunderbirds_logo_primary_20126742.png"
+        },
+        {
+            "abbreviation": "SFA",
+            "defenseScheme": "4-3",
+            "mascot": "Lumberjacks",
+            "name": "Stephen F. Austin",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#79209D",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/856\/full\/stephen_f_austin_lumberjacks_logo_primary_20015545.png"
+        },
+        {
+            "abbreviation": "STSN",
+            "defenseScheme": "4-2-5",
+            "mascot": "Hatters",
+            "name": "Stetson",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#4D7926",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/857\/full\/stetson_hatters_logo_primary_20003056.png"
+        },
+        {
+            "abbreviation": "SHU",
+            "defenseScheme": "4-3",
+            "mascot": "Skyhawks",
+            "name": "Stonehill",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#440C58",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/4636\/full\/stonehill_skyhawks_logo_primary_20202999.png"
+        },
+        {
+            "abbreviation": "SBU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Seawolves",
+            "name": "Stony Brook",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#6F6F6F",
+            "region": "Northeast",
+            "secondary": "#E12300",
+            "tertiary": "#001C56",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/858\/full\/stony_brook_seawolves_logo_primary_20138927.png"
+        },
+        {
+            "abbreviation": "TSU",
+            "defenseScheme": "4-3",
+            "mascot": "Texans",
+            "name": "Tarleton State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#60177B",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/6216\/full\/tarleton_state_texans_logo_primary_20202995.png"
+        },
+        {
+            "abbreviation": "TSU",
+            "defenseScheme": "4-3",
+            "mascot": "Tigers",
+            "name": "Tennessee State",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#0041A8",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/866\/full\/tennessee_state_tigers_logo_primary_20002824.png"
+        },
+        {
+            "abbreviation": "TTU",
+            "defenseScheme": "4-3",
+            "mascot": "Golden Eagles",
+            "name": "Tennessee Tech",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/868\/full\/tennessee_tech_golden_eagles_logo_primary_20002825.png"
+        },
+        {
+            "abbreviation": "TSU",
+            "defenseScheme": "4-2-5",
+            "mascot": "Tigers",
+            "name": "Texas Southern",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#848484",
+            "region": "Southwest",
+            "secondary": "#B41900",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/2589\/full\/texas_southern_tigers_logo_primary_20003002.png"
+        },
+        {
+            "abbreviation": "CIT",
+            "defenseScheme": "3-4",
+            "mascot": "Bulldogs",
+            "name": "The Citadel",
+            "offenseScheme": "option",
+            "prestige": 50,
+            "primary": "#00A0D7",
+            "region": "Southeast",
+            "secondary": "#001C56",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/869\/full\/citadel_bulldogs_logo_primary_20015534.png"
+        },
+        {
+            "abbreviation": "TOW",
+            "defenseScheme": "4-3",
+            "mascot": "Warriors",
+            "name": "Towson",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FCC600",
+            "region": "Northeast",
+            "secondary": "#000000",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/876\/full\/towson_tigers_logo_primary_20015569.png"
+        },
+        {
+            "abbreviation": "UC",
+            "defenseScheme": "4-2-5",
+            "mascot": "Aggies",
+            "name": "UC Davis",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#00255B",
+            "region": "West",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/883\/full\/uc_davis_aggies_logo_primary_20017231.png"
+        },
+        {
+            "abbreviation": "UTM",
+            "defenseScheme": "4-3",
+            "mascot": "Skyhawks",
+            "name": "UT-Martin",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Southeast",
+            "secondary": "#FF6900",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/867\/full\/tennessee-martin_skyhawks_logo_primary_20021503.png"
+        },
+        {
+            "abbreviation": "UTU",
+            "defenseScheme": "4-3",
+            "mascot": "Trailblazers",
+            "name": "Utah Tech",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/6215\/full\/utah_tech_trailblazers_logo_primary_20228020.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Vaqueros",
+            "name": "UTRGV",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FFAA00",
+            "region": "Southwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/6133\/full\/utrgv_vaqueros_logo_primary_20242418.png"
+        },
+        {
+            "abbreviation": "VALPO",
+            "defenseScheme": "4-3",
+            "mascot": "Beacons",
+            "name": "Valparaiso",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#F4EB00",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/884\/full\/valparaiso_crusaders_logo_primary_20002931.png"
+        },
+        {
+            "abbreviation": "NOVA",
+            "defenseScheme": "4-3",
+            "mascot": "Wildcats",
+            "name": "Villanova",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#002E7A",
+            "region": "Northeast",
+            "secondary": "#00C6FB",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/885\/full\/villanova_wildcats_logo_primary_20165913.png"
+        },
+        {
+            "abbreviation": "VMI",
+            "defenseScheme": "3-4",
+            "mascot": "Keydets",
+            "name": "VMI",
+            "offenseScheme": "option",
+            "prestige": 50,
+            "primary": "#F4EB00",
+            "region": "Southeast",
+            "secondary": "#E12300",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/887\/full\/vmi_keydets_logo_primary_20002997.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Seahawks",
+            "name": "Wagner",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#FFFFFF",
+            "region": "Northeast",
+            "secondary": "#4D7926",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/890\/full\/wagner_seahawks_logo_primary_20011520.png"
+        },
+        {
+            "abbreviation": "WSU",
+            "defenseScheme": "4-3",
+            "mascot": "Wildcats",
+            "name": "Weber State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#790094",
+            "region": "West",
+            "secondary": "#5B5B5B",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/894\/full\/weber_state_wildcats_logo_primary_20124672.png"
+        },
+        {
+            "abbreviation": "WGU",
+            "defenseScheme": "4-3",
+            "mascot": "Wolves",
+            "name": "West Georgia",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#0041A8",
+            "region": "Southeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": ""
+        },
+        {
+            "abbreviation": "WCU",
+            "defenseScheme": "4-3",
+            "mascot": "Catamounts",
+            "name": "Western Carolina",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#60177B",
+            "region": "Southeast",
+            "secondary": "#8C8501",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/898\/full\/western_carolina_catamounts_logo_primary_20015535.png"
+        },
+        {
+            "abbreviation": "WIU",
+            "defenseScheme": "4-3",
+            "mascot": "Bulldogs",
+            "name": "Western Illinois",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#E7DE00",
+            "region": "Midwest",
+            "secondary": "#79209D",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/899\/full\/western_illinois_leathernecks_logo_primary_20015507.png"
+        },
+        {
+            "abbreviation": "WMU",
+            "defenseScheme": "4-3",
+            "mascot": "Tribe",
+            "name": "William & Mary",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#4D7926",
+            "region": "Southeast",
+            "secondary": "#C3BB00",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/902\/full\/william_mary_tribe_logo_primary_20072443.png"
+        },
+        {
+            "abbreviation": "WU",
+            "defenseScheme": "4-3",
+            "mascot": "Terriers",
+            "name": "Wofford",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#000000",
+            "region": "Southeast",
+            "secondary": "#656000",
+            "tertiary": "#FFFFFF",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/905\/full\/wofford_terriers_logo_primary_20003004.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-3",
+            "mascot": "Bulldogs",
+            "name": "Yale",
+            "offenseScheme": "pro",
+            "prestige": 50,
+            "primary": "#001C56",
+            "region": "Northeast",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/35\/906\/full\/yale_bulldogs_logo_primary_20015598.png"
+        },
+        {
+            "abbreviation": "NT",
+            "defenseScheme": "4-2-5",
+            "mascot": "Penguins",
+            "name": "Youngstown State",
+            "offenseScheme": "spread",
+            "prestige": 50,
+            "primary": "#FF0000",
+            "region": "Midwest",
+            "secondary": "#FFFFFF",
+            "tertiary": "#000000",
+            "logoURL": "https:\/\/content.sportslogos.net\/logos\/34\/908\/full\/youngstown_state_penguins_logo_primary_20012921.png"
+        }
+  ],
+  "nationalChampionshipLogoURL" : "https:\/\/i.imgur.com\/C75tlWf.png",
+  "ny6Bowls" : [
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a3\/Rose_Bowl_Game_logo.svg\/1113px-Rose_Bowl_Game_logo.svg.png",
+      "name" : "Rose Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/1000logos.net\/wp-content\/uploads\/2022\/03\/Peach-Bowl-logo.png",
+      "name" : "Peach Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9d\/Fiesta_Bowl_Logo.svg\/1130px-Fiesta_Bowl_Logo.svg.png",
+      "name" : "Fiesta Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/51\/Orange_Bowl_logo.svg\/1200px-Orange_Bowl_logo.svg.png",
+      "name" : "Orange Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/3b\/Cotton_Bowl_logo.svg\/1200px-Cotton_Bowl_logo.svg.png",
+      "name" : "Cotton Bowl"
+    },
+    {
+      "logoURL" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/98\/Sugar_Bowl_Logo.svg\/1200px-Sugar_Bowl_Logo.svg.png",
+      "name" : "Sugar Bowl"
+    }
+  ],
+  "rivalries" : [
+    {
+      "mutual" : true,
+      "teamA" : "Air Force",
+      "teamB" : "Army"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Air Force",
+      "teamB" : "Colorado State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Air Force",
+      "teamB" : "Navy"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Akron",
+      "teamB" : "Kent State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Auburn"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Mississippi State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Alabama",
+      "teamB" : "Tennessee"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Appalachian State",
+      "teamB" : "Georgia Southern"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arizona",
+      "teamB" : "Arizona State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "LSU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "Missouri"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Arkansas",
+      "teamB" : "Texas"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Army",
+      "teamB" : "Navy"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ball State",
+      "teamB" : "Miami (OH)"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ball State",
+      "teamB" : "Northern Illinois"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Baylor",
+      "teamB" : "TCU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Baylor",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boise State",
+      "teamB" : "Fresno State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Boston College",
+      "teamB" : "Syracuse"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Bowling Green",
+      "teamB" : "Kent State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Bowling Green",
+      "teamB" : "Toledo"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "BYU",
+      "teamB" : "Utah"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "California",
+      "teamB" : "Stanford"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Central Michigan",
+      "teamB" : "Eastern Michigan"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Central Michigan",
+      "teamB" : "Western Michigan"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Cincinnati",
+      "teamB" : "UCF"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Clemson",
+      "teamB" : "Florida State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Clemson",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado",
+      "teamB" : "Colorado State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado",
+      "teamB" : "Utah"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Colorado State",
+      "teamB" : "Wyoming"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "UCONN",
+      "teamB" : "UMASS"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Duke",
+      "teamB" : "North Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Duke",
+      "teamB" : "Wake Forest"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Eastern Michigan",
+      "teamB" : "Western Michigan"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Florida State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Georgia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "FAU",
+      "teamB" : "Florida International"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida State",
+      "teamB" : "Miami"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Fresno State",
+      "teamB" : "Hawaii"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Fresno State",
+      "teamB" : "San Diego State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Fresno State",
+      "teamB" : "San Jose State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia",
+      "teamB" : "Georgia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia Southern",
+      "teamB" : "Georgia State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Georgia Tech",
+      "teamB" : "Virginia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Hawaii",
+      "teamB" : "San Jose State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Hawaii",
+      "teamB" : "UNLV"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Houston",
+      "teamB" : "Rice"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Illinois",
+      "teamB" : "Northwestern"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Illinois",
+      "teamB" : "Purdue"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Indiana",
+      "teamB" : "Purdue"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa",
+      "teamB" : "Iowa State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa",
+      "teamB" : "Minnesota"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa",
+      "teamB" : "Nebraska"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa",
+      "teamB" : "Wisconsin"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Iowa State",
+      "teamB" : "Kansas State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "James Madison",
+      "teamB" : "Old Dominion"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kansas",
+      "teamB" : "Kansas State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kansas State",
+      "teamB" : "Iowa State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kentucky",
+      "teamB" : "Louisville"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kentucky",
+      "teamB" : "Tennessee"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Liberty",
+      "teamB" : "Old Dominion"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Louisiana-Lafayette",
+      "teamB" : "UL Monroe"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "LSU",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "LSU",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Maryland",
+      "teamB" : "Penn State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Maryland",
+      "teamB" : "Rutgers"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Memphis",
+      "teamB" : "UAB"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Miami",
+      "teamB" : "Virginia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Miami (OH)",
+      "teamB" : "Ohio"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Michigan",
+      "teamB" : "Michigan State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Michigan",
+      "teamB" : "Ohio State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Middle Tennessee State",
+      "teamB" : "Western Kentucky"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Minnesota",
+      "teamB" : "Nebraska"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Minnesota",
+      "teamB" : "Wisconsin"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Mississippi State",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Missouri",
+      "teamB" : "Oklahoma"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Navy",
+      "teamB" : "Notre Dame"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Nebraska",
+      "teamB" : "Wisconsin"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Nevada",
+      "teamB" : "UNLV"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "New Mexico",
+      "teamB" : "New Mexico State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "New Mexico State",
+      "teamB" : "UTEP"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "North Carolina",
+      "teamB" : "Virginia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "North Carolina",
+      "teamB" : "Wake Forest"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "North Carolina",
+      "teamB" : "NC State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "NC State",
+      "teamB" : "Wake Forest"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "Pitt"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "Purdue"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "Stanford"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Notre Dame",
+      "teamB" : "USC"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ohio State",
+      "teamB" : "Penn State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oklahoma",
+      "teamB" : "Texas"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oklahoma State",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Ole Miss",
+      "teamB" : "Mississippi State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oregon",
+      "teamB" : "Oregon State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oregon",
+      "teamB" : "Washington"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Pitt",
+      "teamB" : "Syracuse"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Pitt",
+      "teamB" : "West Virginia"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Sam Houston",
+      "teamB" : "UTEP"
+    },
+    {
+      "mutual" : false,
+      "teamA" : "San Jose State",
+      "teamB" : "Stanford"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "SMU",
+      "teamB" : "TCU"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "South Alabama",
+      "teamB" : "Troy"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "TCU",
+      "teamB" : "Texas Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Tennessee",
+      "teamB" : "Vanderbilt"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Texas",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Texas State",
+      "teamB" : "UTSA"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "UCLA",
+      "teamB" : "USC"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Virginia",
+      "teamB" : "Virginia Tech"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Washington",
+      "teamB" : "Washington State"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Auburn",
+      "teamB" : "Vanderbilt"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Florida",
+      "teamB" : "Kentucky"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Kentucky",
+      "teamB" : "South Carolina"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Mississippi State",
+      "teamB" : "Vanderbilt"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Missouri",
+      "teamB" : "Texas A&M"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oklahoma",
+      "teamB" : "Ole Miss"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "South Carolina",
+      "teamB" : "Kentucky"
+    },
+    {
+      "mutual" : true,
+      "teamA" : "Oregon State",
+      "teamB" : "Washington State"
+    }
+  ]
+}
