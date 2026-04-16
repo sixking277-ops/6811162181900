@@ -1,0 +1,45 @@
+{
+  "\"awardCustomizations\"": "[",
+  "\"awardType\"": "\"Freshman of the Year\",",
+  "\"customName\"": "\"Freshman of the Year Award\"",
+  "\"trophyImageURL\"": "\"https://officialpsds.com/imageview/79/jn/79jn8q_large.png?1521316481\"",
+  "\"bowls\"": "[",
+  "\"logoURL\"": "\"https://example.com/logos/ysu.png\",",
+  "\"name\"": "\"Youngstown State\",",
+  "\"conferences\"": "[",
+  "\"conferenceLogoURL\"": "\"https://i.imgur.com/JoqhBIo.png\",",
+  "\"conferencePrestige\"": [
+    50,
+    null
+  ],
+  "\"protectedPairs\"": "[",
+  "\"mutual\"": [
+    true,
+    null
+  ],
+  "\"teamA\"": "\"Oregon State\",",
+  "\"teamB\"": "\"Washington State\"",
+  "\"requiredConferenceGames\"": [
+    8,
+    null
+  ],
+  "\"teams\"": "[",
+  "\"abbreviation\"": "\"YSU\",",
+  "\"defenseScheme\"": "\"4-2-5\",",
+  "\"mascot\"": "\"Penguins\",",
+  "\"offenseScheme\"": "\"pro\",",
+  "\"prestige\"": [
+    50,
+    null
+  ],
+  "\"primary\"": "\"#CE1126\",",
+  "\"region\"": "\"Midwest\",",
+  "\"secondary\"": "\"#FFFFFF\",",
+  "\"tertiary\"": "\"#FFFFFF\"",
+  "\"tier\"": "\"Non-Power\"",
+  "\"independents\"": "[",
+  "\"nationalChampionshipLogoURL\"": "\"https://i.imgur.com/C75tlWf.png\",",
+  "\"ny6Bowls\"": "[",
+  "\"rivalries\"": "[",
+  "\"subdivisionTeams\"": "["
+}
