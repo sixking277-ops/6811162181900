@@ -814,7 +814,7 @@
           "primary": "#18453B",
           "region": "Midwest",
           "secondary": "#FFFFFF",
-          "tertiary": "#FFFFF"
+          "tertiary": "#FFFFFF"
         },
         {
           "abbreviation": "UMD",
@@ -2687,7 +2687,7 @@
           "prestige": 50,
           "primary": "#840029",
           "region": "Southeast",
-          "secondary": "##FDB913",
+          "secondary": "#FDB913",
           "tertiary": "#FFFFFF"
         },
         {
@@ -4120,7 +4120,7 @@
       "tertiary": "#FFFFFF"
     },
     {
-      "abbreviation": "MERC",
+      "abbreviation": "MRCY",
       "defenseScheme": "4-2-5",
       "logoURL": "https://example.com/logos/merc.png",
       "mascot": "Lakers",
